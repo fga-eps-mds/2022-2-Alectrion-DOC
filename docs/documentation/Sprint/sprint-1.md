@@ -30,7 +30,14 @@ Realizar as histórias de usuários relacionadas ao épico ao cadastro de usuár
 
 ## 4. Quadro de conhecimento
 
-![Quadro de conhecimento](../assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png)
+A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
+
+<figcaption align='center'>
+   Imagem 1: Quadro de conhecimentos do time Alectrion
+   <br>
+</figcaption>
+
+[<div align="center"><img width="auto" height="auto" src="../assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png"/></div>](../assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png)
 
 ## 5. Reunião
 
@@ -56,3 +63,4 @@ Realizar as histórias de usuários relacionadas ao épico ao cadastro de usuár
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |27/11/2022| Criação do documento | João Vitor |
+|28/11/2022| Revisão inicial do documento | Erick Giffoni |

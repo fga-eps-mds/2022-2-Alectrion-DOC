@@ -33,3 +33,4 @@ Finalizar a construção do Lean Inception.
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |27/11/2022| Criação do documento | João Vitor |
+|28/11/2022| Revisão inicial do documento | Erick Giffoni |
