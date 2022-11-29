@@ -1,4 +1,15 @@
-* [Home](../README.md)
-* [Documentos](./documentation/Documentos/)
-* [Semanas](./documentation/Semanas/)
-* [Sprint](./documentation/Sprint/)
+- [HOME](/)
+- **Documentos**
+	- [EAP](/documentos/eap.md)
+- **Lean Inception**
+	- [Visão do Produto](/leaninception/visaodoproduto.md)
+	- [É, Não é, Faz, Não faz]
+	- [Objetivos do Produto]
+	- [Personas]
+	- [Jornadas de usuário]
+	- [Brainstorm de funcionalidades]
+	- [Revisão técnica, de negócio e de UX]
+	- [Sequenciador]
+	- [Canvas MVP]
+- **Semanas**
+- **Sprints**
