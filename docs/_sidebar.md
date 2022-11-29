@@ -1,4 +1,5 @@
 * [Home](../README.md)
+* [Planejamento](./documentation/Planejamento/)
 * [Documentos](./documentation/Documentos/)
 * [Semanas](./documentation/Semanas/)
 * [Sprint](./documentation/Sprint/)
