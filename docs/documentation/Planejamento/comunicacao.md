@@ -30,7 +30,7 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 
 Comunicação interna é referente à equipe de gerência (EPS) e desenvolvedores (MDS) envolvidos diretamente com o projeto.
 
-|**Objetivo**|**Envolvidos**|**Frequencia**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
+|**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
 |Planejamento, revisão e retorspectiva de sprints| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 ás 16:30h| Remoto|Teams|
 |Acompanhamento da execução de tarefas| EPS e MDS| De segunda a sexta-feira, exceto terça e quinta-feiras| Seg, Qua, Sex, ás 11:50h| Remoto|Telegram (1)|
