@@ -2,5 +2,5 @@
 * [Planejamento](./Planejamento/planejamento.md)
    - [Plano de Comunicação](./Planejamento/comunicacao.md)
 * [Documentos](./Documentos/)
-* [Semanas](./Semanas/)
-* [Sprint](./Sprint/)
+* [Semanas](./Semanas/semanas.md)
+* [Sprint](./Sprint/sprints.md)
