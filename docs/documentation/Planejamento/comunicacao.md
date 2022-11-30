@@ -20,7 +20,7 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 |**Logo**|**Nome**|**Finalidade**|
 |--------|-------------|---------|
 |<img src="../assets/logos/discord.png" width="60px" height="60px">|Discord|Comunicação rápida entre a equipe e product owner|
-|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams|Reuniões internas da equipe; e reuniões com o product owner|
+|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams|Reuniões internas da equipe e reuniões com o product owner|
 |<img src="../assets/logos/telegram.png" width="60px" height="60px">|Telegram|Comunicação rápida e de acesso fácil usada pela equipe|
 |<img src="../assets/logos/drive.png" width="60px" height="60px">|Google Drive|Gerenciamento arquivos, como planilhas e outros documentos|
 |<img src="../assets/logos/github.png" width="60px" height="60px">|Github|Repositório com os documentos, arquivos, códigos, dentre outros recursos relacionados ao projeto|
