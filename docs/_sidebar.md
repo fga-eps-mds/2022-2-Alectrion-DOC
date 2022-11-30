@@ -2,14 +2,14 @@
 - **Documentos**
 	- [EAP](/documentos/eap.md)
 - **Lean Inception**
-	- [Visão do Produto](/leaninception/visaodoproduto.md)
-	- [É, Não é, Faz, Não faz]
-	- [Objetivos do Produto]
-	- [Personas]
-	- [Jornadas de usuário]
-	- [Brainstorm de funcionalidades]
-	- [Revisão técnica, de negócio e de UX]
-	- [Sequenciador]
-	- [Canvas MVP]
+	- [Visão do Produto](/leaninception/visao-do-produto.md)
+	- [É, Não é, Faz, Não faz](/leaninception/e-naoe-faz-naofaz.md)
+	- [Objetivos do Produto](/leaninception/objetivos.md)
+	- [Personas](/leaninception/personas.md)
+	- [Jornadas de usuário](/leaninception/jornadas.md)
+	- [Brainstorm de funcionalidades](/leaninception/brainstorm.md)
+	- [Revisão técnica, de negócio e de UX](/leaninception/revisao-tecnica.md)
+	- [Sequenciador](/leaninception/sequenciador.md)
+	- [Canvas MVP](/leaninception/mvp.md)
 - **Semanas**
 - **Sprints**

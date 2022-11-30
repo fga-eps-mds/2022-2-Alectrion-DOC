@@ -15,7 +15,7 @@ A visão do produto segue o seguinte template:
 É importante todos os envolvidos trabalharem em conjunto para formar uma frase homogênea ao fim da atividade.
 
 ## 2. Resultado
-![Resultado da atividade](../assets/leaninception/visaodoproduto.png)
+![Resultado da atividade](../assets/leaninception/visao-do-produto.png)
 
 ## 3. Referências Bibliográficas
 
