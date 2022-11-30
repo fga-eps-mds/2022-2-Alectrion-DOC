@@ -1,4 +1,6 @@
 * [Home](../README.md)
-* [Documentos](./documentation/Documentos/)
+* [Documentos](./documentation/Documentos/documentos.md)
+    - [EAP](./documentation/Documentos/eap.md)
+    - [Plano de custos](./documentation/Documentos/custos.md)
 * [Semanas](./documentation/Semanas/)
 * [Sprint](./documentation/Sprint/)
