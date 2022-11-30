@@ -32,7 +32,7 @@ Comunicação interna é referente à equipe de gerência (EPS) e desenvolvedore
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
-|Planejamento, revisão e retorspectiva de sprints| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 ás 16:30h| Remoto|Teams|
+|Planejamento e retorspectiva de sprints| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 ás 16:30h| Remoto|Teams|
 |Acompanhamento da execução de tarefas| EPS e MDS| De segunda a sexta-feira, exceto terça e quinta-feiras| Seg, Qua, Sex, ás 11:50h| Remoto|Telegram (1)|
 |Integração da equipe e esclarecimentos gerais| EPS e MDS|Toda terça e quinta-feiras| Ter e Qui, das 15:50 ás 16:00h|Presencial|Ao lado da sala i8, na FGA|
 
@@ -46,7 +46,7 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 
 |**Objetivo**|**Envolvidos**|**Frequencia**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
-|Reunião com o product owner| EPS, MDS, DSTI, prof. Hilmer| Semanal| Segunda-feira, de 17:00 ás 18:00h| Remoto|Teams|
+|Reunião de revisão e acompanhamento com o product owner| EPS, MDS, DSTI, prof. Hilmer| Semanal| Segunda-feira, de 17:00 ás 18:00h| Remoto|Teams|
 
 **OBS**: Outras reuniões podem ser realizados sob demanda.
 
