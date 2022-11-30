@@ -28,7 +28,7 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 
 ## 3. Comunicação Interna
 
-Comunicação interna é referente a equipe de gerência (EPS) e desenvolvedores (MDS) envolvidos diretamente com o projeto.
+Comunicação interna é referente à equipe de gerência (EPS) e desenvolvedores (MDS) envolvidos diretamente com o projeto.
 
 |**Objetivo**|**Envolvidos**|**Frequencia**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
