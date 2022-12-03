@@ -24,13 +24,16 @@ Comunicação interna é referente à equipe de gerência (EPS) e desenvolvedore
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
-|Planejamento e retrospectiva de sprints| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 às 16:30h| Remoto|Teams|
-|Acompanhamento da execução de tarefas| EPS e MDS| De segunda a sexta-feira, exceto terça e quintas-feiras| Seg, Qua, Sex, às 11:50h| Remoto|Telegram (1)|
+|Planejamento e retrospectiva de sprints| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 às 16:30h|Remoto|Teams|
+|Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Quarta, às 21:00h|Remoto|Teams (1)|
+|Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Sábado, às 14:00h|Remoto|Teams (1) (2)|
 |Integração da equipe e esclarecimentos gerais| EPS e MDS|Toda terça e quintas-feiras| Ter e Qui, das 15:50 às 16:00h|Presencial|Ao lado da sala i8, na FGA|
 
 **OBS**: Reuniões com o product owner e acompanhamentos, podem ser realizados sob demanda.
 
-(1) Essa atividade será feita via envio de mensagens na plataforma em questão. O conteúdo da mensagem enviada por cada membro deverá responder aos seguintes pontos: i) O que estou fazendo hoje?; ii) O que pretendo fazer amanhã?; iii) Estou tendo dificuldades? Se sim, quais?.
+(1) Essa atividade terá como pauta os seguintes pontos: i) O que estou fazendo hoje?; ii) O que pretendo fazer amanhã?; iii) Estou tendo dificuldades? Se sim, quais?.
+
+(2) Essa atividade será feita nos sábados em que não ocorre o Planejamento e retrospectiva de sprints.
 
 ## 4. Comunicação Externa
 
@@ -54,3 +57,5 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 |--------|-------------|--------------|
 |29/11/2022| Criação do plano de comunicação | Erick Giffoni |
 |30/11/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
+|03/12/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
+|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni|
