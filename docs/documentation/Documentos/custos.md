@@ -11,8 +11,19 @@ Este documento apresenta a estimativa de custos, orçamentos e controle, para qu
 ## 2. Estimativa de custos
 
 ### Recursos humanos
+Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/), esse custo é de R$27.850 anual por aluno. Considerando as 16 semanas de projeto e os 13 integrantes da equipe, temos os seguintes cálculos.
 
+**Custo médio semanal por integrante**
+* custo médio anual por integrante ÷ quantidade de semanas no ano
+* 27.850 ÷ 52 = R$**535,6**
 
+**Custo médio semanal por equipe**
+* custo médio semanal por integrante x quantidade de integrantes da equipe
+* 535,6 x 13 = R$**6962,8**
+
+**Custo TOTAL por equipe**
+* custo médio semanal por equipe x quantidade de semanas do projeto
+* 6962,8 x 16 = R$**111.404,8**
 
 ### Equipamentos
 A estimativa de custos com equipamentos será considerado como R$0, pois todos os integrantes da equipe já possuem computadores pessoais para executar as atividades do projeto.
@@ -43,7 +54,7 @@ Para cálculo do custo de internet utilizaremos o preço médio de planos de 250
 
 #### Energia
 Para a estimativa de energia, seguiu-se os dados da [tabela de tarifas](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/tafiras%20vigentes/01_nbsb_tarifas_energia_eletrica_grupoB_nov_2022_reh3134.pdf) da [neoenergiabrasilia](https://www.neoenergiabrasilia.com.br/Paginas/default.aspx), com os dados vigentes de novembro de 2022 à outubro de 2023. Segundo essa tabela, o custo do KW/h residencial, consumo ativo, de Brasília é cerca de R$0,70.
-Segundo dados de 2021 da [cultura](https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html), um notebook consome em média cerca de 65W/h, conectado ao carregador. Consideramos que cada integrante da equipe trabalhará 4 horas por semana em sua residência, ao longo de 16 semanas. Utilizando esses dados para cálculo, temos:
+Segundo dados de 2021 da [cultura uol](https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html), um notebook consome em média cerca de 65W/h, conectado ao carregador. Consideramos que cada integrante da equipe trabalhará 4 horas por semana em sua residência, ao longo de 16 semanas. Utilizando esses dados para cálculo, temos:
 
 **Consumo do notebook em KW/h:**
 * potência x horas ÷ 1000  
@@ -71,7 +82,7 @@ Somando as estimativas de custo semanal de internet (R$**292,50**) e energia (R$
 Considerando as estimativas de custos acima calculadas, o orçamento total para o projeto seria de
 
 * custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
-* R$- + R$0 + R$0 + R$0 + R$4717,44 = R$-
+* R$111.404,8 + R$0 + R$0 + R$0 + R$4717,44 = **R$116.122,24**
 
 ## 4. Planilha de custos
 
@@ -87,9 +98,11 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 > [2] Neoenergia Brasília. Tarifas. Disponível em: https://www.neoenergiabrasilia.com.br/residencial-e-rural/Paginas/tarifas.aspx. Acesso em: 30 de novembro de 2022  
 > [3] Cultura UOL. 6 maneiras de economizar na conta de luz do home office. Disponível em: https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html. Acesso em: 30 de novembro de 2022  
 > [4] Melhor escolha. Internet em Brasília. Disponível em: https://melhorescolha.com/internet-banda-larga/brasilia-df/. Acesso em: 30 de novembro de 2022  
+> [5] Jonal da Unesp. Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/. Acesso em: 04 de dezembro de 2022  
 
 ## 6. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |30/11/2022| Criação do documento | Aline Lermen, Álvaro Leles |
+|04/12/2022| Adiciona custo de recursos humanos e ajusta referências | Aline Lermen |
