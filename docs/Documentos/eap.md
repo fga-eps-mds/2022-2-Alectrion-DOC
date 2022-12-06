@@ -1,11 +1,3 @@
----
-layout: default
-title: Estrutura Analítica do Projeto
-nav_order: 1
-parent: Documentos
-
----
-
 # Estrutura Analítica do Projeto (EAP)
 
 

@@ -1,11 +1,3 @@
----
-layout: default
-title: Semana 4
-nav_order: 4
-parent: Semanas
-
----
-
 # Semana 4
 
 ## 1. Visão Geral
