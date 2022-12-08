@@ -1,11 +1,3 @@
----
-layout: default
-title: Semana 5
-nav_order: 5
-parent: Semanas
-
----
-
 # Semana 5
 
 ## 1. Visão Geral

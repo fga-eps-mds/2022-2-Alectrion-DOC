@@ -31,10 +31,10 @@ A estimativa de custos com equipamentos será considerado como R$0, pois todos o
 ### 2.3 Ferramentas
 A estimativa de custos com ferramentas será considerado como R$0, pois as plataformas e ferramentas utilizadas pela equipe são gratuitas.
 
-### Capacitação
+### 2.4 Capacitação
 Para a capacitação dos integrantes do grupo não foi utilizado nenhum meio pago, como cursos por exemplo.
 
-### Infraestrutura
+### 2.5 Infraestrutura
 A estimativa de custos de infraestrutura foi planejada considerando o uso de energia elétrica e internet.
 
 #### Internet

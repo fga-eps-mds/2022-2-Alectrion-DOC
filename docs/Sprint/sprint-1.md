@@ -1,11 +1,3 @@
----
-layout: default
-title: Sprint 1
-nav_order: 1
-parent: Sprint
-
----
-
 # Sprint 1
 
 ## 1. Visão Geral

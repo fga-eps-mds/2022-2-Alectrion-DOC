@@ -1,6 +1,9 @@
 * [Home](../README.md)
-* [Documentos](./documentation/Documentos/documentos.md)
+* [Planejamento](./Planejamento/planejamento.md)
+   - [Plano de Comunicação](./Planejamento/comunicacao.md)
+* [Documentos](./Documentos/)
     - [EAP](./documentation/Documentos/eap.md)
     - [Plano de custos](./documentation/Documentos/custos.md)
-* [Semanas](./documentation/Semanas/)
-* [Sprint](./documentation/Sprint/)
+* [Semanas](./Semanas/semanas.md)
+* [Sprint](./Sprint/sprints.md)
+

@@ -1,2 +1,0 @@
-- [EAP](./documentation/Documentos/eap.md)
-- [Plano de custos](./documentation/Documentos/custos.md)
