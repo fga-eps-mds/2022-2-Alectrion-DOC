@@ -25,7 +25,7 @@ Para essa estimativa de custos foi utilizado o custo médio anual por aluno de i
 * custo médio semanal por equipe x quantidade de semanas do projeto
 * 6962,8 x 16 = R$**111.404,8**
 
-### Equipamentos
+### 2.2 Equipamentos
 A estimativa de custos com equipamentos será considerado como R$0, pois todos os integrantes da equipe já possuem computadores pessoais para executar as atividades do projeto.
 
 ### Ferramentas
