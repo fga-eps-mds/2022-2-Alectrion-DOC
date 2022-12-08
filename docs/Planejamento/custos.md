@@ -111,4 +111,5 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 |--------|-------------|--------------|
 |30/11/2022| Criação do documento | Aline Lermen, Álvaro Leles |
 |04/12/2022| Adiciona custo de recursos humanos e ajusta referências | Aline Lermen |
+|06/12/2022| Revisão do documento e pequenas correções | Aline Lermen, Erick Giffoni |
 |08/12/2022| Adiciona custo de capacitação | Aline Lermen |
