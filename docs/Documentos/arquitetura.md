@@ -15,6 +15,11 @@ Este documento está estruturado da seguinte forma:
 ## 2. Representação arquitetural
 ### 2.1. Diagrama de relações
 ![Diagrama de relações](../assets/documentos/relação.png)
+
+O estilo arquitetural de microsserviços consiste em uma abordagem arquitetural a qual uma aplicação é composta por serviços menores, que são implementados de forma independente com acomplamento fraco. Esses serviços independente podem, normalmente, se comunicar entre si utilizando de APIs e são organizados por recurso de negócios.
+<br/>
+A arquitetura de microsserviços acelera o desenvolvimento e também facilita a escalabilidade de uma aplicação. Este padrão arquitetural será utilizado no Electrion.
+
 ### 2.2. Representação dos microserviços
 ### 2.3. Tecnologias
 
@@ -32,3 +37,4 @@ Este documento está estruturado da seguinte forma:
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 | 08/12/2022 | Criação do documento | Samuel Pereira |
+| 08/12/2022 | Adicionando texto do diagrama de relações | Samuel Pereira |
