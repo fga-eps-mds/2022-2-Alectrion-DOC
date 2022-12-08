@@ -2,5 +2,6 @@
 * [Planejamento](./Planejamento/planejamento.md)
    - [Plano de Comunicação](./Planejamento/comunicacao.md)
 * [Documentos](./Documentos/)
+   - [Como contribuir](./Documentos/guia-contribuicao.md)
 * [Semanas](./Semanas/semanas.md)
 * [Sprint](./Sprint/sprints.md)
