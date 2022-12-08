@@ -99,6 +99,7 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 > [3] Cultura UOL. 6 maneiras de economizar na conta de luz do home office. Disponível em: https://cultura.uol.com.br/noticias/26097_6-maneiras-de-economizar-na-conta-de-luz-do-home-office.html. Acesso em: 30 de novembro de 2022  
 > [4] Melhor escolha. Internet em Brasília. Disponível em: https://melhorescolha.com/internet-banda-larga/brasilia-df/. Acesso em: 30 de novembro de 2022  
 > [5] Jonal da Unesp. Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/. Acesso em: 04 de dezembro de 2022  
+> [6] Alectrion. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/home/. Acesso em: 04 de novembro de 2022  
 
 ## 6. Histórico de versão
 
