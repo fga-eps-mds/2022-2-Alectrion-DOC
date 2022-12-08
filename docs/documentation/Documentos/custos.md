@@ -38,7 +38,7 @@ Para a capacitação dos integrantes do grupo não foi utilizado nenhum meio pag
 A estimativa de custos de infraestrutura foi planejada considerando o uso de energia elétrica e internet.
 
 #### Internet
-Para cálculo do custo de internet utilizaremos o preço médio de planos de 250mb/M, que de acordo com [melhorescolha](https://melhorescolha.com/internet-banda-larga/brasilia-df/) é cerca de R$ 89,99 mensal.
+Para cálculo do custo de internet utilizaremos o preço médio de planos de 250 MB por mês que, de acordo com [melhorescolha](https://melhorescolha.com/internet-banda-larga/brasilia-df/) [4],é cerca de R$ 89,99.
 
 **Custo semanal de internet por integrante**
 * custo mensal da internet ÷ quantidade de semana no mês
