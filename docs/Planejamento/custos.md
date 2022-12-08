@@ -32,7 +32,11 @@ A estimativa de custos com equipamentos será considerado como R$0, pois todos o
 A estimativa de custos com ferramentas será considerado como R$0, pois as plataformas e ferramentas utilizadas pela equipe são gratuitas.
 
 ### 2.4 Capacitação
-Para a capacitação dos integrantes do grupo não foi utilizado nenhum meio pago, como cursos por exemplo.
+A estimativa de custos para capacitação dos integrantes do grupo considera a aquisição do curso [Projeto Completo NodeJS, React, React Native, TypeScript](https://www.udemy.com/course/dev-fullstack/) da plataforma Udemy, pelo valor de R$27,90. Considerando a compra por 7 integrantes:
+
+**Custo TOTAL de capacitação por equipe**  
+custo total de capacitação por integrante x quantidade de integrantes que adquiriram  
+27,90 x 13 = R$**195,30**
 
 ### 2.5 Infraestrutura
 A estimativa de custos de infraestrutura foi planejada considerando o uso de energia elétrica e internet.
@@ -79,10 +83,10 @@ Somando as estimativas de custo semanal de internet (R$**292,50**) e energia (R$
 
 ## 3. Definição do orçamento
 
-Considerando as estimativas de custos acima calculadas, o orçamento total para o projeto é:
+Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto é:
 
 * custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
-* R$111.404,8 + R$0 + R$0 + R$0 + R$4717,44 = **R$116.122,24**
+* R$111.404,8 + R$0 + R$0 + R$195,30 + R$4717,44 = **R$116.317,54**
 
 ## 4. Planilha de custos
 
@@ -107,3 +111,4 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 |--------|-------------|--------------|
 |30/11/2022| Criação do documento | Aline Lermen, Álvaro Leles |
 |04/12/2022| Adiciona custo de recursos humanos e ajusta referências | Aline Lermen |
+|08/12/2022| Adiciona custo de capacitação | Aline Lermen |
