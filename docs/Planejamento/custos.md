@@ -36,7 +36,7 @@ A estimativa de custos para capacitação dos integrantes do grupo considera a a
 
 **Custo TOTAL de capacitação por equipe**  
 custo total de capacitação por integrante x quantidade de integrantes que adquiriram  
-27,90 x 13 = R$**195,30**
+27,90 x 7 = R$**195,30**
 
 ### 2.5 Infraestrutura
 A estimativa de custos de infraestrutura foi planejada considerando o uso de energia elétrica e internet.
