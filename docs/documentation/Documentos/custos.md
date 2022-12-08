@@ -79,7 +79,7 @@ Somando as estimativas de custo semanal de internet (R$**292,50**) e energia (R$
 
 ## 3. Definição do orçamento
 
-Considerando as estimativas de custos acima calculadas, o orçamento total para o projeto seria de
+Considerando as estimativas de custos acima calculadas, o orçamento total para o projeto é:
 
 * custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
 * R$111.404,8 + R$0 + R$0 + R$0 + R$4717,44 = **R$116.122,24**
