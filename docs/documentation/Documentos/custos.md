@@ -28,7 +28,7 @@ Para essa estimativa de custos foi utilizado o custo médio anual por aluno de i
 ### 2.2 Equipamentos
 A estimativa de custos com equipamentos será considerado como R$0, pois todos os integrantes da equipe já possuem computadores pessoais para executar as atividades do projeto.
 
-### Ferramentas
+### 2.3 Ferramentas
 A estimativa de custos com ferramentas será considerado como R$0, pois as plataformas e ferramentas utilizadas pela equipe são gratuitas.
 
 ### Capacitação
