@@ -58,4 +58,5 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 |29/11/2022| Criação do plano de comunicação | Erick Giffoni |
 |30/11/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
 |03/12/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
-|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni|
+|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni |
+|08/12/2022| Correção no caminho das imagens | Samuel Pereira |
