@@ -10,7 +10,7 @@ Este documento apresenta a estimativa de custos, orçamentos e controle, para qu
 
 ## 2. Estimativa de custos
 
-### Recursos humanos
+### 2.1 Recursos humanos
 Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/), esse custo é de R$27.850 anual por aluno. Considerando as 16 semanas de projeto e os 13 integrantes da equipe, temos os seguintes cálculos.
 
 **Custo médio semanal por integrante**
