@@ -70,12 +70,53 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 | Muito alta  |  21 a 25  |
 
 
-
 ## 4. Documentação dos riscos
 
+### 4.1 Riscos técnicos
 
-## 5. Histórico de versão
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RT01 | Limitação técnica | Demora no desenvolvimento do projeto | Alto | Média | Média |
+| RT02 | Má gestão dos requisitos | Desenvolvimento falho do produto | Muito alto | Média | Média |
+| RT03 | Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software | Muito alto | Média | Média |
+| RT04 | Mudança das tecnologias | Adequar todo o código as novas tecnologias | Muito alto | Muito baixa | Muito baixa |
+
+### 4.2 Riscos organizacionais
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RO01 | Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho | Alto | Alta | Alta |
+| RO02 | Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Baixa |
+
+### 4.3 Riscos de gerenciamento de projeto 
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Alto | Alta | Alta |
+| RGP02 | Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Média | Média |
+| RGP03 | Falta de compatilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Alta | Alta |
+| RGP04 | Baixa produtividade da equipe | Atraso nas entregas | Alto | Média | Média |
+| RGP05 | Pareamento não efetivo | Atraso nas entregas | Alto | Média | Média |
+
+
+### 4.4 Risco externo
+
+| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
+| -- | ----- | ------------ | ------- | ------------- | ---------- |
+| RE01 | Adoecimento de membro da equipe | Atraso nas entregas e/ou sobrecarga de trabalho aos demais membros | Alto | Média | Média | 
+
+
+## 5. Referências Bibliográficas
+
+<!-- Referências enumeradas-->
+
+> [1] Guia PMBOK 6a. ed. EUA: Project Management Institure, 2017. Disponível em: https://www.site.com
+> [2] EQUIPE ALECTRION 2022-1. Planejamento de Gerenciamento de Riscos. Disponível em: https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/main/docs/documentation/Documentos/plano-de-riscos.md
+
+
+## 6. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
-|05/12/2022| Criação do documento | João Vitor |
+| 05/12/2022 | Criação do documento | João Vitor |
+| 07/12/2022 | Documentação dos riscos | João Vitor |
