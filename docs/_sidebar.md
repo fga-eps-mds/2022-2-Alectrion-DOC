@@ -1,4 +1,4 @@
-* [Home](./README.md)
+* [Home](/README.md)
 * [Planejamento](./Planejamento/planejamento.md)
    - [Plano de Comunicação](./Planejamento/comunicacao.md)
 * [Documentos](./Documentos/)
