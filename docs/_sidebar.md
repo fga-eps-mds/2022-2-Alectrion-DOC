@@ -1,4 +1,4 @@
-* [Home](../README.md)
+* [Home](/)
 * [Planejamento](./Planejamento/planejamento.md)
    - [Plano de Comunicação](./Planejamento/comunicacao.md)
    - [Plano de custos](./Planejamento/custos.md)

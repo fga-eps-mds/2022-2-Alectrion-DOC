@@ -1,6 +1,5 @@
 # Guia de Contribuição
 
-
 ## 1. Introdução
 
 **Como contribuir para o projeto Alectrion ?**
