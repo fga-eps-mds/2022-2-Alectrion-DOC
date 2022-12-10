@@ -5,6 +5,7 @@
 * [Documentos](./Documentos/)
    - [EAP](./Documentos/eap.md)
    - [Como contribuir](./Documentos/guia-contribuicao.md)
+   - [Sobre _branches_](./Documentos/politicas-branch.md)
 * [Semanas](./Semanas/semanas.md)
 * [Sprint](./Sprint/sprints.md)
 
