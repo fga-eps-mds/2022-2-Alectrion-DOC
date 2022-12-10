@@ -1,11 +1,3 @@
----
-layout: default
-title: Semana 2
-nav_order: 2
-parent: Semanas
-
----
-
 # Semana 2
 
 ## 1. Visão Geral

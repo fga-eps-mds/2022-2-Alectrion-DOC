@@ -1,11 +1,3 @@
----
-layout: default
-title: Semana 3
-nav_order: 3
-parent: Semanas
-
----
-
 # Semana 3
 
 ## 1. Visão Geral
