@@ -103,6 +103,7 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 <!-- Referências enumeradas-->
 
 > [1] Guia PMBOK 6a. ed. EUA: Project Management Institure, 2017. Disponível em: https://www.site.com
+
 > [2] EQUIPE ALECTRION 2022-1. Planejamento de Gerenciamento de Riscos. Disponível em: https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/main/docs/documentation/Documentos/plano-de-riscos.md
 
 
@@ -112,4 +113,4 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 |--------|-------------|--------------|
 | 05/12/2022 | Criação do documento | João Vitor |
 | 07/12/2022 | Documentação dos riscos | João Vitor |
-| 08/12/2022 | correção de erros de escrita | João Vitor |
+| 08/12/2022 | Correção de erros de escrita | João Vitor |
