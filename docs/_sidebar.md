@@ -4,6 +4,7 @@
     - [Plano de custos](./Planejamento/custos.md)
 * [Documentos](./Documentos/)
     - [EAP](./Documentos/eap.md)
+    - [TAP](./Documentos/tap.md)
 * [Semanas](./Semanas/semanas.md)
 * [Sprint](./Sprint/sprints.md)
 
