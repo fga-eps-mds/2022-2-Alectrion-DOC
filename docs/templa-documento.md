@@ -24,6 +24,6 @@ parent: Documentos
 
 ## 4. Histórico de versão
 
-|**Data**|**Descrição**|**Autore(es)**|
+|**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |01/01/2022| Criação do documento | Alguém |

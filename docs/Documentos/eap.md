@@ -27,7 +27,8 @@ A imagem 1 abaixo mostra a EAP para o projeto Alectrion.
 
 ## 4. Histórico de versão
 
-|**Data**|**Descrição**|**Autore(es)**|
+|**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
 |27/11/2022| Criação do documento | João Vitor |
 |28/11/2022| Revisão inicial do documento | Erick Giffoni |
+|09/12/2022| Atualização da imagem da EAP | João Vitor |
