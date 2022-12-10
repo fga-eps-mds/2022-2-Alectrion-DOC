@@ -11,8 +11,6 @@ Aplicação disponível em: TO-DO
 
 ## Requisitos
 
- - Docker
- - Docker-compose
  - Docsify
 
 ## Instalação
