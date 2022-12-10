@@ -2,6 +2,7 @@
 * [Planejamento](./Planejamento/planejamento.md)
     - [Plano de Comunicação](./Planejamento/comunicacao.md)
     - [Plano de custos](./Planejamento/custos.md)
+    - [Plano de riscos](./Planejamento/riscos.md)
 * [Documentos](./Documentos/)
     - [EAP](./Documentos/eap.md)
 * [Semanas](./Semanas/semanas.md)

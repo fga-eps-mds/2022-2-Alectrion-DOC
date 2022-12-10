@@ -1,11 +1,3 @@
----
-layout: default
-title: Plano de gerenciamento de riscos
-nav_order: 4
-parent: Documentos
-
----
-
 # Plano de gerenciamento de riscos
 
 
