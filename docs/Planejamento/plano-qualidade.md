@@ -28,11 +28,91 @@ Neste projeto iremos encontrar formas de medir e melhorar a qualidade de softwar
 
 - A qualidade em uso é a visão da qualidade do produto de software do ponto de vista do usuário, quando este produto é usado em um ambiente e um contexto de uso real, próprios do usuário. Sendo medida com base no quão bem os usuários conseguem realizar suas tarefas e suprir suas necessidades num determinado ambiente.
 
-## 5. Referências
-> [1] NBR - ISO/IEC 9126-1 - Engenharia de software - Qualidade de produto - Parte 1: Modelo de qualidade. Disponivel em: https://jkolb.com.br/wp-content/uploads/2014/02/NBR-ISO_IEC-9126-1.pdf
+## 5. Verificação e validação
+Para as técnicas de verificação e validação foram selecionadas três abordagens:
+- Análise estática do código: com o uso da ferramenta SonarCloud, para a coleta de métricas a serem avaliadas;
+- Testes automatizados: são os testes unitários e de integração a serem produzidos e executados;
+- Testes manuais: testes de aceitação a serem realizados para validar que o software está cumprindo as especificações dos usuários.
 
-## 6. Histórico de versão
+## 6. Padrões, práticas, convenções e métricas
+Os padrões de software são importantes para a qualidade do produto de software, pois representam a identificação das melhores práticas. As métricas de qualidade de produto são essenciais para identificar componentes que não seguem um padrão previamente estabelecido e que podem resultar em problemas de qualidade. Não existem métricas de softwares padronizadas e universalmente aplicáveis, ou seja, uma métrica não possui a mesma interpretação e utilidade para todos os projetos. Assim, deve-se selecionar métricas com base nos objetivos de qualidade.
+
+#### 6.1 ISOS e normas
+Principal ISO e modelo utilizados no projeto:
+- ISO/IEC 9126-1
+- Modelo de qualidade Q-rapids
+
+#### 6.2 Padrões de codificação
+Um padrão de codificação descreve várias convenções usadas para fazer implementações consistentes e com qualidade. Para este projeto são usadas as ferramentas _eslint_ e _prettier_ para a padronização do código desenvolvido pelos integrantes da equipe.
+
+#### 6.3 Métricas
+As seguintes métricas serão coletadas com o uso do SonarCloud.
+
+|            métrica              | descrição                                                    | medida em |
+| ------------------------------- | :----------------------------------------------------------: | :--------:|
+| Files                           | quantidade de arquivos de código                             | número |
+| Functions                       | quantidade de funções no código                              | número |
+| Complexity                      | complexidade ciclomática                                     | número |
+| Commented lines density         | densidade de linhas comentadas                               | % |
+| Duplicated lines density        | densidade de linhas duplicadas                               | % |
+| Coverage                        | cobertura de código pelos testes                             | % |
+| Ncloc                           | quantidade de linhas do código                               | número |
+| Tests                           | quantidade de testes                                         | número |
+| Test errors                     | quantidade de testes que falharam                            | número |
+| Test failures                   | quantidade de testes que falharam com exceção inesperada     | número |
+| Test execution time             | tempo que levou a execução de todos os testes                | número |
+| Security rating                 | dado de segurança e vulnerabilidades                         | número |
+
+#### 6.4 Métricas para o produto
+A partir dos valores coletados com as métricas, tem-se um indicativo sobre a qualidade do produto. Por isso, é possível definir os valores mínimos aceitáveis para cada métrica.
+Para definir os valores de métrica aceitáveis para a qualidade interna, a equipe selecionou como base as métricas definidas no modelo Q-rapids e no SonarCloud.
+
+|            métrica              | valor |
+| ------------------------------- | :--------: |
+| Complexity                      | até 10|
+| Commented lines density         | até 30%|
+| Duplicated lines density        | até 3%|
+| Coverage                        | acima de 80%|
+| Test errors                     | 0|
+| Test failures                   | 0|
+| Security rating                 | 0 (A)|
+
+## 7. Testes
+Existem algumas formas de testar o software:
+- Testes unitários: utilizado para validar se uma unidade da aplicação está funcionando corretamente;
+- Testes de integração: utilizado para verificar a integração correta entre os diferentes módulos da aplicação, uma vez que já tenham sido testados em unidade, para verificar se eles interagem corretamente;
+- Testes caixa-branca: utilizado para testar o código e garantir que os componentes estejam concisos;
+- Testes caixa-preta: utilizado para verificar todas as entradas e saídas desejadas, ignorando a estrutura interna do código, focando apenas nos requisitos funcionais do sistema.
+
+## 8. Ferramentas, técnicas e metodologias
+Para o projeto são utilizadas as seguintes ferramentas:
+- [Jest](https://jestjs.io/): framework de testes para JavaScript
+- [ESLint](https://eslint.org/): ferramenta de verificação automática de código
+- [Prettier](https://prettier.io/): ferramenta de formatação de código
+- [SonarCloud](https://www.sonarsource.com/products/sonarcloud/): ferramenta de varredura de código para analisar o código de acordo com as regras e métricas definidas
+
+## 9. Controle de código
+O controle de código é feito com o propósito de monitoramento das alterações no código. Para garantir o correto procedimento para qualidade estão sendo realizadas tarefas automatizadas no GitHub, com controle de versão, testes automatizados, controle de _commits_, entre outros.
+
+## 10. Coleta e manutenção
+É a fase após a coleta e análise das métricas, onde inicia-se um processo de manutenção no sistema. O objetivo é modificar o produto após liberação para melhorias, correções de falhas ou adaptações no produto. Existem algumas categorias de manutenção:
+- Manutenção Adaptativa: adaptar o software;
+- Manutenção Corretiva: identificar e corrigir errors e _bugs_;
+- Manutenção Preventiva: melhorar a manutenibilidade ou confiabilidade do produto;
+- Manutenção Perfectiva: realizar modificações solicitadas pelo usuário e efetuar melhorias gerais.
+
+
+## 11. Referências
+> [1] NBR - ISO/IEC 9126-1 - Engenharia de software - Qualidade de produto - Parte 1: Modelo de qualidade. Disponivel em: https://jkolb.com.br/wp-content/uploads/2014/02/NBR-ISO_IEC-9126-1.pdf. Acesso em: 06 de dezembro de 2022  
+> [2] Alectrion. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/home/. Acesso em: 09 de dezembro de 2022  
+> [3] Quality-aware Rapid Software Development Project: The Q-Rapids Project. FRANCH X.; LOPEZ L.; FERNÁNDEZ S. M.; ORIOL M.; RODRÍGUEZ P.; TRENDOWICZ A.  
+> [4] SonarCloud. Metric Definitions. Disponível em: https://docs.sonarcloud.io/digging-deeper/metric-definitions/. Acesso em: 10 de dezembro de 2022  
+
+
+
+## 12. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |06/12/2022| Criação e introdução do documento | Álvaro Leles |
+|11/12/2022| Descrição dos processos e métodos de controle da qualidade | Aline Lermen |
