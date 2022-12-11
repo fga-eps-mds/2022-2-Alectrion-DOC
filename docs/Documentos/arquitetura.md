@@ -45,7 +45,9 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 
 ## 3. Visão lógica
 ### 3.1. Diagrama de pacotes
-![Diagrama de pacotes](../assets/documentos/pacotes-frontend.png)
+![Diagrama de pacotes do front-end](../assets/documentos/pacotes-frontend.png)
+
+![Diagrama de pacotes do back-end](../assets/documentos/pacotes-backend.png)
 
 ### 3.2. Diagrama de implantação
 ![Diagrama de implantação](../assets/documentos/implantação.png)
@@ -74,3 +76,4 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 | 08/12/2022 | Adição da representação dos serviços e tecnologias | Samuel Pereira |
 | 11/12/2022 | Adição do diagrama de pacotes do front-end e diagrama de implantação | Samuel Pereira |
 | 11/12/2022 | Adição do diagrama lógico | Samuel Pereira |
+| 11/12/2022 | Adição do diagrama de pacotes do back-end | Samuel Pereira |
