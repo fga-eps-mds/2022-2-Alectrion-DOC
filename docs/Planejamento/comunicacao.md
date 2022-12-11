@@ -11,12 +11,12 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 
 |**Logo**|**Nome**|**Finalidade**|
 |--------|-------------|---------|
-|<img src="../assets/logos/discord.png" width="60px" height="60px">|Discord|Comunicação rápida entre a equipe e product owner|
-|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams|Reuniões internas da equipe e reuniões com o product owner|
-|<img src="../assets/logos/telegram.png" width="60px" height="60px">|Telegram|Comunicação rápida e de acesso fácil usada pela equipe|
-|<img src="../assets/logos/drive.png" width="60px" height="60px">|Google Drive|Gerenciamento de arquivos, como planilhas e outros documentos|
-|<img src="../assets/logos/github.png" width="60px" height="60px">|Github|Repositório com os documentos, arquivos, códigos, dentre outros recursos relacionados ao projeto|
-|<img src="../assets/logos/zenhub.png" width="60px" height="60px">|ZenHub| Acompanhamento e gerenciamento do projeto|
+|<img src="assets/logos/discord.png" width="60px" height="60px">|Discord|Comunicação rápida entre a equipe e product owner|
+|<img src="assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams|Reuniões internas da equipe e reuniões com o product owner|
+|<img src="assets/logos/telegram.png" width="60px" height="60px">|Telegram|Comunicação rápida e de acesso fácil usada pela equipe|
+|<img src="assets/logos/drive.png" width="60px" height="60px">|Google Drive|Gerenciamento de arquivos, como planilhas e outros documentos|
+|<img src="assets/logos/github.png" width="60px" height="60px">|Github|Repositório com os documentos, arquivos, códigos, dentre outros recursos relacionados ao projeto|
+|<img src="assets/logos/zenhub.png" width="60px" height="60px">|ZenHub| Acompanhamento e gerenciamento do projeto|
 
 ## 3. Comunicação Interna
 
@@ -58,4 +58,5 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 |29/11/2022| Criação do plano de comunicação | Erick Giffoni |
 |30/11/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
 |03/12/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
-|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni|
+|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni |
+|08/12/2022| Correção no caminho das imagens | Samuel Pereira |
