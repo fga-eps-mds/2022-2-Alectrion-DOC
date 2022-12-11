@@ -50,7 +50,14 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 ### 3.2. Diagrama de implantação
 ![Diagrama de implantação](../assets/documentos/implantação.png)
 
+### 3.3. Diagrama de classe
+#### 3.3.1. Microsserviço de usuário
+
+#### 3.3.2. Microsserviço de equipamentos
+
 ## 4. Visão de dados
+### 4.1. Diagrama lógico
+![Diagrama lógico](../assets/documentos/logico.png)
 
 ## 5. Referências Bibliográficas
 
@@ -66,3 +73,4 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 | 08/12/2022 | Adição do texto do diagrama de relações | Samuel Pereira |
 | 08/12/2022 | Adição da representação dos serviços e tecnologias | Samuel Pereira |
 | 11/12/2022 | Adição do diagrama de pacotes do front-end e diagrama de implantação | Samuel Pereira |
+| 11/12/2022 | Adição do diagrama lógico | Samuel Pereira |
