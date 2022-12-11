@@ -2,11 +2,12 @@
 
 ## 1. Descrição do Projeto
 
-O SGPI se trata de uma aplicação web feita para suprir a necessidade de gestão e consulta dos patrimônios de unidades da PCGO (Polícia Civil de Goiás), em especial para os patrimônios do setor de informática entre as diversas delegacias existentes no estado de Goiás.
+Alectrion é um sistema de gerenciamento de inventário, ordens de serviços e movimentações de equipamentos de informática,
+feito para atender às demandas da DSTI (Divisão de Suporte Técnico Interno) da Polícia Civil do estado de Goiás.
 
 ## 2. Propósito e Objetivos
 
-O propósito do Alectrion é oferecer uma aplicação com funcionalidades de gerenciamento de patrimônio para as delegacias da polícia civil de Goiás. Com um certo foco no setor de informática, já que no sistema será possível verificar o histórico de um item, conforme as manutenções realizadas nele, alteração de unidade responsável por este item e outras funcionalidades específicas para o setor de informática da PCGO.
+O propósito do Alectrion é oferecer uma aplicação com funcionalidades de gerenciamento de equipamentos de informática para as delegacias da polícia civil de Goiás. Com um certo foco no DSTI, já que no sistema será possível verificar o histórico de um item, conforme as manutenções realizadas nele, alteração de unidade responsável por este item e outras funcionalidades específicas para o DSTI da PCGO (Polícia Civil de Goiás).
 
 ## 3. Justificativa
 
@@ -15,6 +16,8 @@ O atual sistema em uso pela PCGO é compartilhado com outros órgãos públicos 
 ## 4. Estimativa de custos (descrição)
 
 A estimativa de custos se trata de um estudo que visa viabilizar operacional e financeiramente a execução de um projeto. Sua aplicação deve ser efetiva e condizente com a realidade de ambas as partes, pois o mesmo dará o norte para a tomada de decisão durante todo o período de realização. 
+
+[Plano de custos](../Planejamento/custos.md)
 
 ## 5. Partes Interessadas
 
