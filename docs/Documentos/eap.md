@@ -12,12 +12,12 @@ Na EAP o trabalho planejado é contido no nível mais baixo de componente, denom
 
 A imagem 1 abaixo mostra a EAP para o projeto Alectrion.
 
+[<div align="center"><img width="auto" height="auto" src="assets/EAP.png"/></div>](../assets/EAP.png)
+
 <figcaption align='center'>
    Imagem 1: Estrutura Analítica do Projeto Alectrion
    <br>
 </figcaption>
-
-[<div align="center"><img width="auto" height="auto" src="../assets/EAP.png"/></div>](../assets/EAP.png)
 
 ## 3. Referências Bibliográficas
 

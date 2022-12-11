@@ -29,7 +29,7 @@ A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
    <br>
 </figcaption>
 
-[<div align="center"><img width="auto" height="auto" src="../assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png"/></div>](../assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png)
+[<div align="center"><img width="auto" height="auto" src="assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png"/></div>](../assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png)
 
 ## 5. Reunião
 
