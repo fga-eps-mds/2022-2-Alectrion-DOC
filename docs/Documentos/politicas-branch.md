@@ -46,7 +46,7 @@ pronta para os usuários utilizarem com confiança.
 
 #### *Bug*
 
-_Brnaches_ para correções urgentes de _bugs_ são criadas a partir da _branch_ **main** e são juntadas diretamente nela (por meio de um _pull request_).<br>
+_Branches_ para correções urgentes de _bugs_ são criadas a partir da _branch_ **main** e são juntadas diretamente nela (por meio de um _pull request_).<br>
 Por convenção, o nome dessas _branches_  segue o formato ```hotfix/<problema a ser resolvido>```.<br>
 Por exemplo: ```hotfix/imagens-nao-salvas-no-banco```
 
