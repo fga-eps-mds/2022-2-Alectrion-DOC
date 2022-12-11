@@ -43,8 +43,13 @@ O Node.js é uma plataforma de aplicação para JavaScript com o objetivo princi
 #### 2.3.3. PostgreSQL
 O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código aberto. O PostgreSQL será utilizado para gerenciar as bases de dados dos serviços da aplicação.
 
-
 ## 3. Visão lógica
+### 3.1. Diagrama de pacotes
+![Diagrama de pacotes](../assets/documentos/pacotes-frontend.png)
+
+### 3.2. Diagrama de implantação
+![Diagrama de implantação](../assets/documentos/implantação.png)
+
 ## 4. Visão de dados
 
 ## 5. Referências Bibliográficas
@@ -58,5 +63,6 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 | 08/12/2022 | Criação do documento | Samuel Pereira |
-| 08/12/2022 | Adição di texto do diagrama de relações | Samuel Pereira |
+| 08/12/2022 | Adição do texto do diagrama de relações | Samuel Pereira |
 | 08/12/2022 | Adição da representação dos serviços e tecnologias | Samuel Pereira |
+| 11/12/2022 | Adição do diagrama de pacotes do front-end e diagrama de implantação | Samuel Pereira |
