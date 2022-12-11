@@ -23,7 +23,7 @@ A imagem 1 abaixo mostra a EAP para o projeto Alectrion.
 
 <!-- Referências enumeradas-->
 
-> [1] Guia PMBOK 6a. ed. EUA: Project Management Institure, 2017. Disponível em: https://www.site.com
+> [1] Guia PMBOK 6a. ed. EUA: Project Management Institure, 2017. Disponível em: http://www.sesp.mt.gov.br/documents/4713378/12273418/Guia-PMBOK+6%C2%AA+Edi%C3%A7%C3%A3o_compressed.pdf/cd4313d8-a65c-e146-3a24-505a6bc29d4b
 
 ## 4. Histórico de versão
 
