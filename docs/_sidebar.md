@@ -3,9 +3,12 @@
    - [Plano de Comunicação](./Planejamento/comunicacao.md)
    - [Plano de custos](./Planejamento/custos.md)
    - [Plano de riscos](./Planejamento/riscos.md)
+   - [Plano de qualidade](./Planejamento/plano-qualidade.md)
 - **Documentos**
    - [EAP](./Documentos/eap.md)
+   - [TAP](./Documentos/tap.md)
    - [Como contribuir](./Documentos/guia-contribuicao.md)
+   - [Sobre _branches_](./Documentos/politicas-branch.md)
    - [Documento de Arquitetura](./Documentos/arquitetura.md)
 - [**Semanas**](./Semanas/semanas.md)
 - [**Sprint**](./Sprint/sprints.md)
