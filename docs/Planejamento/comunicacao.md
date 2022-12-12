@@ -11,12 +11,12 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 
 |**Logo**|**Nome**|**Finalidade**|
 |--------|-------------|---------|
-|<img src="../assets/logos/discord.png" width="60px" height="60px">|Discord|Comunicação rápida entre a equipe e product owner|
-|<img src="../assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams|Reuniões internas da equipe e reuniões com o product owner|
-|<img src="../assets/logos/telegram.png" width="60px" height="60px">|Telegram|Comunicação rápida e de acesso fácil usada pela equipe|
-|<img src="../assets/logos/drive.png" width="60px" height="60px">|Google Drive|Gerenciamento de arquivos, como planilhas e outros documentos|
-|<img src="../assets/logos/github.png" width="60px" height="60px">|Github|Repositório com os documentos, arquivos, códigos, dentre outros recursos relacionados ao projeto|
-|<img src="../assets/logos/zenhub.png" width="60px" height="60px">|ZenHub| Acompanhamento e gerenciamento do projeto|
+|<img src="assets/logos/discord.png" width="60px" height="60px">|Discord|Comunicação rápida entre a equipe e product owner|
+|<img src="assets/logos/teams.png" width="60px" height="60px">|Microsoft Teams|Reuniões internas da equipe e reuniões com o product owner|
+|<img src="assets/logos/telegram.png" width="60px" height="60px">|Telegram|Comunicação rápida e de acesso fácil usada pela equipe|
+|<img src="assets/logos/drive.png" width="60px" height="60px">|Google Drive|Gerenciamento de arquivos, como planilhas e outros documentos|
+|<img src="assets/logos/github.png" width="60px" height="60px">|Github|Repositório com os documentos, arquivos, códigos, dentre outros recursos relacionados ao projeto|
+|<img src="assets/logos/zenhub.png" width="60px" height="60px">|ZenHub| Acompanhamento e gerenciamento do projeto|
 
 ## 3. Comunicação Interna
 
@@ -24,16 +24,17 @@ Comunicação interna é referente à equipe de gerência (EPS) e desenvolvedore
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
-|Planejamento e retrospectiva de sprints| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 às 16:30h|Remoto|Teams|
-|Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Quarta, às 21:00h|Remoto|Teams (1)|
-|Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Sábado, às 14:00h|Remoto|Teams (1) (2)|
-|Integração da equipe e esclarecimentos gerais| EPS e MDS|Toda terça e quintas-feiras| Ter e Qui, das 15:50 às 16:00h|Presencial|Ao lado da sala i8, na FGA|
+|Planejamento de sprint| EPS e MDS| A cada 2 semanas | Segunda-feira, das 20:00 às 21:00h|Remoto|Teams|
+|_Checkpoint_: Integração da equipe e esclarecimentos gerais| EPS e MDS|Toda terça e quintas-feiras| Ter e Qui, das 15:50 às 16:00h|Presencial|Ao lado da sala i8, na FGA|
+|_Checkpoint_: Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Quarta, às 21:00h|Remoto|Teams (1)|
+|Retrospectiva de sprint| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 às 15:30h|Remoto|Teams|
+|_Checkpoint_: Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Sábado, às 14:00h|Remoto|Teams (1) (2)|
 
 **OBS**: Reuniões com o product owner e acompanhamentos, podem ser realizados sob demanda.
 
 (1) Essa atividade terá como pauta os seguintes pontos: i) O que estou fazendo hoje?; ii) O que pretendo fazer amanhã?; iii) Estou tendo dificuldades? Se sim, quais?.
 
-(2) Essa atividade será feita nos sábados em que não ocorre o Planejamento e retrospectiva de sprints.
+(2) Essa atividade será feita nos sábados em que não ocorre a retrospectiva de sprints.
 
 ## 4. Comunicação Externa
 
@@ -58,4 +59,6 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 |29/11/2022| Criação do plano de comunicação | Erick Giffoni |
 |30/11/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
 |03/12/2022| Revisão e correções ortográficas | Erick Giffoni, Álvaro Leles |
-|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni|
+|03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni |
+|08/12/2022| Correção no caminho das imagens | Samuel Pereira |
+|10/12/2022| Alteração nas reuniões internas | Erick Giffoni |

@@ -1,8 +1,11 @@
 - [Home](/)
 - [**Planejamento**](./Planejamento/planejamento.md)
    - [Plano de Comunicação](./Planejamento/comunicacao.md)
+   - [Plano de custos](./Planejamento/custos.md)
+   - [Plano de riscos](./Planejamento/riscos.md)
 - **Documentos**
    - [EAP](./Documentos/eap.md)
+   - [Como contribuir](./Documentos/guia-contribuicao.md)
    - [Documento de Arquitetura](./Documentos/arquitetura.md)
 - [**Semanas**](./Semanas/semanas.md)
 - [**Sprint**](./Sprint/sprints.md)
