@@ -54,8 +54,10 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 
 ### 3.3. Diagrama de classe
 #### 3.3.1. Microsserviço de usuário
+![Diagrama de classes do microsserviço de usuário](../assets/documentos/classes-usuario.png)
 
 #### 3.3.2. Microsserviço de equipamentos
+![Diagrama de classes do microsserviço de equipamento](../assets/documentos/classes-equipamento.png)
 
 ## 4. Visão de dados
 ### 4.1. Diagrama lógico
@@ -63,9 +65,13 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 
 ## 5. Referências Bibliográficas
 
-<!-- Referências enumeradas-->
+> [1] SOARES, João Pedro; ESTANISLAU, Matheus. Documento de Arquitetura. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/documento-arquitetura.html. Acesso em: 8 dez. 2022.
 
-> [1] Referência 1. Disponível em: https://www.site.com
+> [2] PATROCÍNIO, Sofia; GOUVEIA, Micaella; PEREIRA, Samuel; TAIRA, Luis Henrique; MUNIZ, Amanda. Chatbot Gaia: Documento de Arquitetura. Disponível em: https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/DocArquitetura. Acesso em: 8 dez. 2022.
+
+> [3] RICHARDSON, Chris. Database per service. Disponível em: https://microservices.io/patterns/data/database-per-service.html. Acesso em: 8 dez. 2022.
+
+> [4] CREATELY. O Guia Fácil de Diagramas de Implantação UML. Disponível em: https://creately.com/blog/pt/diagrama/tutorial-do-diagrama-de-implantacao. Acesso em: 11 dez. 2022.
 
 ## 6. Histórico de versão
 
@@ -77,3 +83,4 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 | 11/12/2022 | Adição do diagrama de pacotes do front-end e diagrama de implantação | Samuel Pereira |
 | 11/12/2022 | Adição do diagrama lógico | Samuel Pereira |
 | 11/12/2022 | Adição do diagrama de pacotes do back-end | Samuel Pereira |
+| 11/12/2022 | Adição dos diagramas de classes e referências | Samuel Pereira |
