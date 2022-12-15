@@ -58,3 +58,4 @@ A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
 |--------|-------------|--------------|
 |27/11/2022| Criação do documento | João Vitor |
 |28/11/2022| Revisão inicial do documento | Erick Giffoni |
+|15/12/2022| Atualiza quadro de conhecimento | Aline Lermen |
