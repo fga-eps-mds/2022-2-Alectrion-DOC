@@ -5,6 +5,7 @@
    - [Plano de riscos](./Planejamento/riscos.md)
    - [Plano de qualidade](./Planejamento/plano-qualidade.md)
 - **Documentos**
+   - [Metodologias](./Documentos/metodologia.md)
    - [EAP](./Documentos/eap.md)
    - [TAP](./Documentos/tap.md)
    - [Como contribuir](./Documentos/guia-contribuicao.md)
