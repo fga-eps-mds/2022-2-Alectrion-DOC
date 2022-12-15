@@ -52,21 +52,21 @@ A Imagem 1 abaixo representa o quadro de conhecimentos atualizado da equipe.
 
 ## 5. Reunião
 
-|Turma|Nome|Retrospectiva|_Review_|_Planning_|
+|Turma|Nome|_Planning_|Retrospectiva|_Review_|
 |-----|----|:--------:|:--------:|:--------:|
-| EPS | Aline Helena Lermen | - |- |- |
-| EPS | Álvaro Leles Guimarães | - |- |- |
-| EPS | Antonio Ruan Moura Barreto | - |- |- |
-| EPS | Erick Giffoni | - |- |- |
-| EPS | João Vitor Lopes de Farias | - |- |- |
-| EPS | Samuel de Souza Buters Pereira | - |- |- |
-| MDS | Adriano Fonseca | - |- |- |
-| MDS | Carlos Eduardo Mendes de Mesquita | - |- |- |
-| MDS | Mateus Fidelis Marinho Maia | - |- |- |
-| MDS | Matheus Henrique dos Santos | - |- |- |
-| MDS | Pedro José DIas de Oliveira Campos | - |- |- |
-| MDS | Uires Carlos | - |- |- |
-| MDS | Yago Amin Santos | - |- |- |
+| EPS | Aline Helena Lermen | Presente |- |- |
+| EPS | Álvaro Leles Guimarães | Ausente |- |- | 
+| EPS | Antonio Ruan Moura Barreto | Presente |- |- |
+| EPS | Erick Giffoni | Ausente |- |- | 
+| EPS | João Vitor Lopes de Farias | Presente |- |- |
+| EPS | Samuel de Souza Buters Pereira | Presente |- |- |
+| MDS | Adriano Fonseca | Ausente |- |- | 
+| MDS | Carlos Eduardo Mendes de Mesquita | Ausente |- |- | 
+| MDS | Mateus Fidelis Marinho Maia | Presente |- |- |
+| MDS | Matheus Henrique dos Santos | Presente |- |- |
+| MDS | Pedro José DIas de Oliveira Campos | Ausente |- |- | 
+| MDS | Uires Carlos | Ausente |- |- | 
+| MDS | Yago Amin Santos | Presente |- |- |
 
 ## 6. Histórico de versão
 
