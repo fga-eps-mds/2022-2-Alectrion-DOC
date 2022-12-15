@@ -19,6 +19,18 @@ Realizar as histórias de usuários relacionadas ao épico ao cadastro de usuár
 | [US 04](https://github.com/fga-eps-mds/2022-2-alectrion-doc/issues/10): Recuperar minha senha | Adriano, Carlos e Uires |
 | [US 05](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/12): Administração de usuários | Adriano, Carlos e Uires |
 | [US 06](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/13): Registro de equipamentos | Mateus Fidelis e Yago |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/15):  EAP | João |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/20):  Comunicação | Erick |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/22):  Plano de custos | Aline e Álvaro |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/25):  Plano de riscos | João |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/30):  Política de branches | Erick |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/28):  Documento de arquitetura | Samuel |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/26):  Plano de qualidade | Aline e Álvaro |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/29):  TAP | João |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/31):  Guia de contribuição | Erick |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/30):  README dos repositórios | Erick |
+| [DOCS](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/17):  Lean Inception no pages | Samuel |
+| [Deploy](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/issues/) | Ruan |
 
 ## 4. Quadro de conhecimento
 
@@ -35,21 +47,21 @@ A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
 
 ## 5. Reunião
 
-|Turma|Nome|Presença|
-|-----|----|--------|
-| EPS | Aline Helena Lermen | Presente |
-| EPS | Álvaro Leles Guimarães | Presente |
-| EPS | Antonio Ruan Moura Barreto | Presente |
-| EPS | Erick Giffoni | Presente |
-| EPS | João Vitor Lopes de Farias | Presente |
-| EPS | Samuel de Souza Buters Pereira | Presente |
-| MDS | Adriano Fonseca | Presente |
-| MDS | Carlos Eduardo Mendes de Mesquita | Ausente |
-| MDS | Mateus Fidelis Marinho Maia | Ausente |
-| MDS | Matheus Henrique dos Santos | Presente |
-| MDS | Pedro José DIas de Oliveira Campos | Presente |
-| MDS | Uires Carlos | Presente |
-| MDS | Yago Amin Santos | Ausente |
+|Turma|Nome|_Planning_|Retrospectiva|_Review_|
+|-----|----|:--------:|:--------:|:--------:|
+| EPS | Aline Helena Lermen | Presente | Presente|- |
+| EPS | Álvaro Leles Guimarães | Presente | Presente |- | 
+| EPS | Antonio Ruan Moura Barreto | Presente | Presente |- |
+| EPS | Erick Giffoni | Presente | Presente |- | 
+| EPS | João Vitor Lopes de Farias | Presente | Presente |- |
+| EPS | Samuel de Souza Buters Pereira | Presente |Presente |- |
+| MDS | Adriano Fonseca | Presente |Presente |- | 
+| MDS | Carlos Eduardo Mendes de Mesquita | Ausente |Presente |- | 
+| MDS | Mateus Fidelis Marinho Maia | Ausente |Presente |- |
+| MDS | Matheus Henrique dos Santos | Presente |Presente |- |
+| MDS | Pedro José Dias de Oliveira Campos | Presente |Presente |- | 
+| MDS | Uires Carlos | Presente |Presente |- | 
+| MDS | Yago Amin Santos | Presente |Presente |- |
 
 
 ## 6. Histórico de versão
@@ -58,3 +70,4 @@ A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
 |--------|-------------|--------------|
 |27/11/2022| Criação do documento | João Vitor |
 |28/11/2022| Revisão inicial do documento | Erick Giffoni |
+|15/12/2022| Adiciona tarefas de EPS, quadro da retrospectiva e modifica formato da tabela de reniões | Aline Lermen |
