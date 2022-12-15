@@ -22,6 +22,8 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 
 Considerando que nossa _sprint_ será de 1 semana, teremos reuniões internas e externas conforme explicado nas seções a seguir.
 
+> Obs.: as datas e durações, dia da semana para inicio e fim da sprint, bem como reuniões de _planning_, foram diferentes na primeira _sprint_, porque era um planejamento inicial que agora foi alterado.
+
 ### 3.1 Reuniões Internas
 
 Se referem à equipe de gerência (EPS) e desenvolvedores (MDS) envolvidos diretamente com o projeto.
