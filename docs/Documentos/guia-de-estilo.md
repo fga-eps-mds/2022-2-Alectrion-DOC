@@ -26,8 +26,7 @@ Os ícones usados na aplicação são os icones da biblioteca [material-icons](h
 
 
 ## 4. Referências Bibliográficas
-> [1] Style Guide. Disponivel em: https://aelaschool.com/designvisual/style-guide-como-desenvolver-o-guia-de-estilo-da-sua-interface/
-> [2] Material UI. Disponível em: https://mui.com/pt/material-ui
+> [1] AELA. Style Guide: Como Desenvolver o Guia de Estilo da Sua Interface?. [S. l.], 6 dez. 2021. Disponível em: https://aelaschool.com/designvisual/style-guide-como-desenvolver-o-guia-de-estilo-da-sua-interface/. Acesso em: 16 dez. 2022.
 
 ## 5. Histórico da revisão
 |**Data**|**Descrição**|**Autor(es)**|
@@ -36,3 +35,4 @@ Os ícones usados na aplicação são os icones da biblioteca [material-icons](h
 | 20/07/2022 | Adicionados topicos de cores e icones | João Soares, Lucas Meireles e Lucas Heler |
 | 21/07/2022 | Adicionado logo | João Soares, Lucas Meireles e Lucas Heler |
 | 16/12/2022 | Atualização de imagens, correções ortográficas e adição à nova wiki | Samuel Pereira |
+| 16/12/2022 | Atualização das referências | Samuel Pereira |
