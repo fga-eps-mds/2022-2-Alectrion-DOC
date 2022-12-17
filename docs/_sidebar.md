@@ -10,6 +10,9 @@
    - [Como contribuir](./Documentos/guia-contribuicao.md)
    - [Sobre _branches_](./Documentos/politicas-branch.md)
    - [Documento de Arquitetura](./Documentos/arquitetura.md)
+   - **Protótipos**
+      - [Protótipo de baixa fidelidade](./Documentos/prototipos/baixa-fidelidade.md)
+      - [Protótipo de alta fidelidade](./Documentos/prototipos/alta-fidelidade.md)
 - **Lean Inception**
 	- [Visão do Produto](./Leaninception/visao-do-produto.md)
 	- [É, Não é, Faz, Não faz](./Leaninception/e-naoe-faz-naofaz.md)
