@@ -22,7 +22,7 @@ A principal família tipográfica definida para o projeto é a Montserrat e suas
 
 ### 3.3 Ícones
 
-Os ícones usados na aplicação são os icones da biblioteca [material-icons](https://mui.com/pt/material-ui/material-icons/)
+Os ícones usados na aplicação são os ícones da biblioteca [material-icons](https://mui.com/pt/material-ui/material-icons/)
 
 
 ## 4. Referências Bibliográficas
