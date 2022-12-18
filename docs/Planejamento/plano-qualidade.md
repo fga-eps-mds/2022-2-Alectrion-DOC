@@ -20,7 +20,7 @@ Aqui iremos definir:
 A documentação que será usada como referência para este documento serão os outros documentos disponíveis nesta documentação do projeto.
 
 ## 4. Objetivos de qualidade
-Neste projeto iremos encontrar formas de medir e melhorar a qualidade de software do produto Alectrion, usando a norma ISO/IEC 9126-1:2003, tendo como foco: qualidade interna, qualidade externa e qualidade em uso.
+Neste projeto iremos encontrar formas de medir e melhorar a qualidade de software do produto Alectrion, usando a norma ISO/IEC 250110:2011, tendo como foco: qualidade interna, qualidade externa e qualidade em uso.
 
 - A qualidade interna é medida e avaliada com relação aos seus requisitos internos, que podem incluir modelos estáticos e dinâmicos, além de outros documentos e até mesmo o código-fonte.
 
@@ -39,8 +39,7 @@ Os padrões de software são importantes para a qualidade do produto de software
 
 #### 6.1 ISOS e normas
 Principal ISO e modelo utilizados no projeto:
-- ISO/IEC 9126-1
-- Modelo de qualidade Q-rapids
+- ISO/IEC 25010
 
 #### 6.2 Padrões de codificação
 Um padrão de codificação descreve várias convenções usadas para fazer implementações consistentes e com qualidade. Para este projeto são usadas as ferramentas _eslint_ e _prettier_ para a padronização do código desenvolvido pelos integrantes da equipe.
@@ -65,7 +64,7 @@ As seguintes métricas serão coletadas com o uso do SonarCloud.
 
 #### 6.4 Métricas para o produto
 A partir dos valores coletados com as métricas, tem-se um indicativo sobre a qualidade do produto. Por isso, é possível definir os valores mínimos aceitáveis para cada métrica.
-Para definir os valores de métrica aceitáveis para a qualidade interna, a equipe selecionou como base as métricas definidas no modelo Q-rapids e no SonarCloud.
+Para definir os valores de métrica aceitáveis para a qualidade interna, a equipe selecionou como base as métricas definidas no SonarCloud.
 
 |            métrica              | valor |
 | ------------------------------- | :--------: |
@@ -103,10 +102,10 @@ O controle de código é feito com o propósito de monitoramento das alteraçõe
 
 
 ## 11. Referências
-> [1] NBR - ISO/IEC 9126-1 - Engenharia de software - Qualidade de produto - Parte 1: Modelo de qualidade. Disponivel em: https://jkolb.com.br/wp-content/uploads/2014/02/NBR-ISO_IEC-9126-1.pdf. Acesso em: 06 de dezembro de 2022  
+> [1] NBR - ISO/IEC 9126-1 - Engenharia de software - Qualidade de produto - Parte 1: Modelo de qualidade. Disponivel em: https://jkolb.com.br/wp-content/uploads/2014/02/NBR-ISO_IEC-9126-1.pdf. Acesso em: 06 de dezembro de 2022
 > [2] Alectrion. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/home/. Acesso em: 09 de dezembro de 2022  
-> [3] Quality-aware Rapid Software Development Project: The Q-Rapids Project. FRANCH X.; LOPEZ L.; FERNÁNDEZ S. M.; ORIOL M.; RODRÍGUEZ P.; TRENDOWICZ A.  
-> [4] SonarCloud. Metric Definitions. Disponível em: https://docs.sonarcloud.io/digging-deeper/metric-definitions/. Acesso em: 10 de dezembro de 2022  
+> [3] SonarCloud. Metric Definitions. Disponível em: https://docs.sonarcloud.io/digging-deeper/metric-definitions/. Acesso em: 10 de dezembro de 2022
+> [4] ISO/IEC 25010:2011 - Systems and software engineering - Systems and software Quality Requirements and Evaluation (SQuaRE) — System and software quality models. Disponivel em: https://www.iso.org/standard/35733.html. Acesso em: 18 de dezembro de 2022
 
 
 
@@ -116,3 +115,4 @@ O controle de código é feito com o propósito de monitoramento das alteraçõe
 |--------|-------------|--------------|
 |06/12/2022| Criação e introdução do documento | Álvaro Leles |
 |11/12/2022| Descrição dos processos e métodos de controle da qualidade | Aline Lermen |
+|18/12/2022| Atualização do documento | Álvaro Leles |
