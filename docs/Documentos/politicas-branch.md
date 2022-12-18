@@ -108,7 +108,7 @@ Após ter resolvido uma issue e estiver satisfeito com o que foi alterado nos ar
 
 Ao abrir o _pull request_ deve-se marcar ao menos dois integrantes de EPS para revisar as alterações sugeridas para, caso necessário, ser solicitado a fazer edições ou melhorias.
 
-Sempre que implementar alterações sugeridas, deve-se avisar aos revisores para que eles dêem uma nova olhada. Ao fim, se a contribuição for aceita, o _pull request_ será _mergeado_ a branch principal do repositório.
+Sempre que implementar alterações sugeridas, deve-se avisar aos revisores para que eles dêem uma nova olhada. Ao fim, se a contribuição for aceita, o _pull request_ será _mergeado_ à branch de destino do repositório.
 
 ## 5. Referências
 
