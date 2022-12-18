@@ -18,27 +18,30 @@ Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 |<img src="assets/logos/github.png" width="60px" height="60px">|Github|Repositório com os documentos, arquivos, códigos, dentre outros recursos relacionados ao projeto|
 |<img src="assets/logos/zenhub.png" width="60px" height="60px">|ZenHub| Acompanhamento e gerenciamento do projeto|
 
-## 3. Comunicação Interna
+## 3. Reuniões
 
-Comunicação interna é referente à equipe de gerência (EPS) e desenvolvedores (MDS) envolvidos diretamente com o projeto.
+Considerando que nossa _sprint_ será de 1 semana, teremos reuniões internas e externas conforme explicado nas seções a seguir.
+
+> Obs.: as datas e durações, dia da semana para inicio e fim da sprint, bem como reuniões de _planning_, foram diferentes na primeira _sprint_, porque era um planejamento inicial que agora foi alterado.
+
+### 3.1 Reuniões Internas
+
+Se referem à equipe de gerência (EPS) e desenvolvedores (MDS) envolvidos diretamente com o projeto.
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
-|Planejamento de sprint| EPS e MDS| A cada 2 semanas | Segunda-feira, das 20:00 às 21:00h|Remoto|Teams|
-|_Checkpoint_: Integração da equipe e esclarecimentos gerais| EPS e MDS|Toda terça e quintas-feiras| Ter e Qui, das 15:50 às 16:00h|Presencial|Ao lado da sala i8, na FGA|
-|_Checkpoint_: Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Quarta, às 21:00h|Remoto|Teams (1)|
-|Retrospectiva de sprint| EPS e MDS| A cada 2 semanas | Sábado, das 14:00 às 15:30h|Remoto|Teams|
-|_Checkpoint_: Acompanhamento da execução de tarefas| EPS e MDS| Semanal| Sábado, às 14:00h|Remoto|Teams (1) (2)|
+|Planejamento de sprint| EPS e MDS| Semanal | Segunda-feira, das 20:00 às 21:00h|Remoto|Teams|
+|_Checkpoint_: Integração da equipe e esclarecimentos gerais (1)| EPS e MDS|2x por semana| Ter e Qui, das 15:50 às 16:00h|Presencial|Ao lado da sala i8, na FGA|
+|_Checkpoint_: Acompanhamento da execução de tarefas (1)| EPS e MDS| Semanal| Quarta, das 21:00 às 21:20h|Remoto|Teams|
+|Retrospectiva de sprint| EPS e MDS| Semanal | Sábado, das 14:00 às 15:30h|Remoto|Teams|
 
 **OBS**: Reuniões com o product owner e acompanhamentos, podem ser realizados sob demanda.
 
 (1) Essa atividade terá como pauta os seguintes pontos: i) O que estou fazendo hoje?; ii) O que pretendo fazer amanhã?; iii) Estou tendo dificuldades? Se sim, quais?.
 
-(2) Essa atividade será feita nos sábados em que não ocorre a retrospectiva de sprints.
+### 3.2 Reuniões Externas
 
-## 4. Comunicação Externa
-
-Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
+Se referem tanto à equipe (EPS e MDS) quanto aos demais interessados.
 
 |**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**(ou local)|
 |------------|--------------|--------------|-----------|--------|--------|
@@ -46,13 +49,13 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 
 **OBS**: Outras reuniões podem ser realizadas sob demanda.
 
-## 5. Referências
+## 4. Referências
 
 <!-- Referências enumeradas-->
 
 > [1] EQUIPE ALECTRION 2022-1. Plano de Comunicação. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/documentation/Documentos/PlanoComunicacao.html#plano-de-comunica%C3%A7%C3%A3o
 
-## 6. Histórico de versão
+## 5. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
@@ -62,3 +65,4 @@ Comunicação externa é referente à equipe (EPS e MDS) e outros interessados.
 |03/12/2022| Alteração de dias e horários na comunicação interna | Erick Giffoni |
 |08/12/2022| Correção no caminho das imagens | Samuel Pereira |
 |10/12/2022| Alteração nas reuniões internas | Erick Giffoni |
+|15/12/2022| Alteração duração da _sprint_, reestruturação do documento, faz ajustes nas reuniões e exclui o _checkpoint_ de sábado | Erick Giffoni |
