@@ -106,7 +106,7 @@ Após ter resolvido uma issue e estar satisfeito com o que foi alterado nos arqu
 
 ### Revisores
 
-Ao abrir o _pull request_ deve-se marcar ao menos dois integrantes de EPS para revisar as alterações sugeridas para, caso necessário, ser solicitado a fazer edições ou melhorias.
+Ao abrir o _pull request_ deve-se marcar ao menos dois integrantes de EPS e dois de MDS para revisarem o conteúdo do PR. Caso seja necessário, o autor do PR será solicitado pelos revisores para fazer edições ou melhorias.
 
 Sempre que implementar alterações sugeridas, deve-se avisar aos revisores para que eles dêem uma nova olhada. Ao fim, se a contribuição for aceita, o _pull request_ será _mergeado_ à branch de destino do repositório.
 
