@@ -45,7 +45,22 @@ A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
    <br>
 </figcaption>
 
-## 5. Reunião
+
+## 5. Quadro da retrospectiva
+
+As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizada pela equipe.
+
+<div align="center">
+   <img width="auto" height="auto" src="assets/quadro_retrospectiva/1_quadro_bom.jpg"/>
+</div>
+<div align="center">
+   <img width="auto" height="auto" src="assets/quadro_retrospectiva/1_quadro_ruim.jpg"/>
+</div>
+<div align="center">
+   <img width="auto" height="auto" src="assets/quadro_retrospectiva/1_quadro_melhorar.jpg"/>
+</div>
+
+## 6. Reunião
 
 |Turma|Nome|_Planning_|Retrospectiva|_Review_|
 |-----|----|:--------:|:--------:|:--------:|
@@ -64,7 +79,7 @@ A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
 | MDS | Yago Amin Santos | Presente |Presente |- |
 
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|

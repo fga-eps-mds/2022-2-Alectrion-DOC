@@ -42,7 +42,7 @@ Finalizar as histórias de usuários relacionadas ao épico ao cadastro de usuá
 A Imagem 1 abaixo representa o quadro de conhecimentos atualizado da equipe.
 
 <div align="center">
-   <img width="auto" height="auto" src="assets/quadro_de_conhecimento/_quadro_de_conhecimento.png"/>
+   <img width="auto" height="auto" src="assets/quadro_de_conhecimento/2_quadro_de_conhecimento.jpg"/>
 </div>
 
 <figcaption align='center'>
@@ -50,26 +50,41 @@ A Imagem 1 abaixo representa o quadro de conhecimentos atualizado da equipe.
    <br>
 </figcaption>
 
-## 5. Reunião
+## 5. Quadro da retrospectiva
+
+As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizada pela equipe.
+
+<div align="center">
+   <img width="auto" height="auto" src="assets/quadro_retrospectiva/2_quadro_bom.jpg"/>
+</div>
+<div align="center">
+   <img width="auto" height="auto" src="assets/quadro_retrospectiva/2_quadro_ruim.jpg"/>
+</div>
+<div align="center">
+   <img width="auto" height="auto" src="assets/quadro_retrospectiva/2_quadro_melhorar.jpg"/>
+</div>
+
+## 6. Reunião
 
 |Turma|Nome|_Planning_|Retrospectiva|_Review_|
 |-----|----|:--------:|:--------:|:--------:|
-| EPS | Aline Helena Lermen | Presente |- |- |
-| EPS | Álvaro Leles Guimarães | Ausente |- |- | 
-| EPS | Antonio Ruan Moura Barreto | Presente |- |- |
-| EPS | Erick Giffoni | Ausente |- |- | 
-| EPS | João Vitor Lopes de Farias | Presente |- |- |
-| EPS | Samuel de Souza Buters Pereira | Presente |- |- |
-| MDS | Adriano Fonseca | Ausente |- |- | 
-| MDS | Carlos Eduardo Mendes de Mesquita | Ausente |- |- | 
-| MDS | Mateus Fidelis Marinho Maia | Presente |- |- |
-| MDS | Matheus Henrique dos Santos | Presente |- |- |
-| MDS | Pedro José DIas de Oliveira Campos | Ausente |- |- | 
-| MDS | Uires Carlos | Ausente |- |- | 
-| MDS | Yago Amin Santos | Presente |- |- |
+| EPS | Aline Helena Lermen | Presente |Presente |- |
+| EPS | Álvaro Leles Guimarães | Ausente | Ausente |- | 
+| EPS | Antonio Ruan Moura Barreto | Presente | Presente |- |
+| EPS | Erick Giffoni | Ausente | Presente |- | 
+| EPS | João Vitor Lopes de Farias | Presente | Presente |- |
+| EPS | Samuel de Souza Buters Pereira | Presente | Presente |- |
+| MDS | Adriano Fonseca | Ausente | Ausente |- | 
+| MDS | Carlos Eduardo Mendes de Mesquita | Ausente | Ausente |- | 
+| MDS | Mateus Fidelis Marinho Maia | Presente | Presente |- |
+| MDS | Matheus Henrique dos Santos | Presente | Ausente |- |
+| MDS | Pedro José Dias de Oliveira Campos | Ausente | Presente |- | 
+| MDS | Uires Carlos | Ausente | Ausente |- | 
+| MDS | Yago Amin Santos | Presente | Ausente |- |
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 |**Data**|**Descrição**|**Autore(es)**|
 |--------|-------------|--------------|
 |15/12/2022| Criação básica do documento | Aline Lermen |
+|18/12/2022| Adiciona presença e quadro da retrospectiva, quadro de conhecimento | Aline Lermen |
