@@ -93,7 +93,7 @@ Neste projeto utilizaremos algumas labels para associar às _Issues_ e às _Pull
  - **help wanted:** Label para associar a _issues_ onde se precisa de ajuda para continuar sua resolução;
  - **HOTFIX:** Label para associar a _issues_ que precisam resolver uma situação muito específica;
  - **invalid:** Label para associar a _issues_ onde algo não parece estar funcionando corretamente;
- - **MDS:** Label para associar a _issues_ que devem/podem ser realizadas por alunos da disciplina de EPS;
+ - **MDS:** Label para associar a _issues_ que devem/podem ser realizadas por alunos da disciplina de MDS;
  - **MEDIUM:** Label para associar a _issues_ que possuem certa complexidade;
  - **question:** Label para associar a _issues_ onde maiores informações são necessárias para continuar sua resolução;
  - **US:** Label para associar a histórias de usuário;
@@ -102,13 +102,13 @@ Neste projeto utilizaremos algumas labels para associar às _Issues_ e às _Pull
 
 ### Abertura e conteúdo de *Pull Requests*
 
-Após ter resolvido uma issue e estiver satisfeito com o que foi alterado nos arquivos locais, deve-se enviar essas alterações para o repositório no GitHub por meio de commits. Após isso, pode-se ir para o repositório e abrir um _pull request_, onde deve-se escolher a _branch_ que se quer propor as alterações e informar o máximo de detalhes da contribuição, criando então um _pull request_ para ser revisado.
+Após ter resolvido uma issue e estar satisfeito com o que foi alterado nos arquivos locais, deve-se enviar essas alterações para o repositório no GitHub por meio de commits. Após isso, pode-se ir para o repositório e abrir um _pull request_, onde deve-se escolher a _branch_ que se quer propor as alterações e informar o máximo de detalhes da contribuição, seguindo o [template de _pull requests_](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/blob/main/.github/pull_request_template.md), criando então um _pull request_ para ser revisado.
 
 ### Revisores
 
-Ao abrir o _pull request_ deve-se marcar ao menos dois integrantes de EPS para revisar as alterações sugeridas para, caso necessário, ser solicitado a fazer edições ou melhorias.
+Ao abrir o _pull request_ deve-se marcar ao menos dois integrantes de EPS e dois de MDS para revisarem o conteúdo do PR. Caso seja necessário, o autor do PR será solicitado pelos revisores para fazer edições ou melhorias.
 
-Sempre que implementar alterações sugeridas, deve-se avisar aos revisores para que eles dêem uma nova olhada. Ao fim, se a contribuição for aceita, o _pull request_ será _mergeado_ a branch principal do repositório.
+Sempre que implementar alterações sugeridas, deve-se avisar aos revisores para que eles dêem uma nova olhada. Ao fim, se a contribuição for aceita, o _pull request_ será _mergeado_ à branch de destino do repositório.
 
 ## 5. Referências
 
