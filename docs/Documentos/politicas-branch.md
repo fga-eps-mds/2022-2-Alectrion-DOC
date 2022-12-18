@@ -102,7 +102,7 @@ Neste projeto utilizaremos algumas labels para associar às _Issues_ e às _Pull
 
 ### Abertura e conteúdo de *Pull Requests*
 
-Após ter resolvido uma issue e estiver satisfeito com o que foi alterado nos arquivos locais, deve-se enviar essas alterações para o repositório no GitHub por meio de commits. Após isso, pode-se ir para o repositório e abrir um _pull request_, onde deve-se escolher a _branch_ que se quer propor as alterações e informar o máximo de detalhes da contribuição, criando então um _pull request_ para ser revisado.
+Após ter resolvido uma issue e estar satisfeito com o que foi alterado nos arquivos locais, deve-se enviar essas alterações para o repositório no GitHub por meio de commits. Após isso, pode-se ir para o repositório e abrir um _pull request_, onde deve-se escolher a _branch_ que se quer propor as alterações e informar o máximo de detalhes da contribuição, seguindo o [template de _pull requests_](https://github.com/fga-eps-mds/2022-2-Alectrion-DOC/blob/main/.github/pull_request_template.md), criando então um _pull request_ para ser revisado.
 
 ### Revisores
 
