@@ -93,7 +93,7 @@ Neste projeto utilizaremos algumas labels para associar às _Issues_ e às _Pull
  - **help wanted:** Label para associar a _issues_ onde se precisa de ajuda para continuar sua resolução;
  - **HOTFIX:** Label para associar a _issues_ que precisam resolver uma situação muito específica;
  - **invalid:** Label para associar a _issues_ onde algo não parece estar funcionando corretamente;
- - **MDS:** Label para associar a _issues_ que devem/podem ser realizadas por alunos da disciplina de EPS;
+ - **MDS:** Label para associar a _issues_ que devem/podem ser realizadas por alunos da disciplina de MDS;
  - **MEDIUM:** Label para associar a _issues_ que possuem certa complexidade;
  - **question:** Label para associar a _issues_ onde maiores informações são necessárias para continuar sua resolução;
  - **US:** Label para associar a histórias de usuário;
