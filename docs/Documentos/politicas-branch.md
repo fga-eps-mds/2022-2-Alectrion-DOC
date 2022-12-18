@@ -122,3 +122,4 @@ Sempre que implementar alterações sugeridas, deve-se avisar aos revisores para
 |--------|-------------|--------------|
 |09/12/2022| Criação da política de _branches_ | Erick Giffoni |
 |16/12/2022| Adição da política de _pull requests_ | Álvaro Leles |
+|18/12/2022| Revisão da política de _pull requests_ | Aline Helena, Álvaro Leles, Erick Giffoni |
