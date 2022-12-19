@@ -80,6 +80,9 @@ A aceitação é a resposta ao risco que a equipe do projeto decide não agir pa
 
 ## 5. Documentação dos riscos
 
+Os riscos foram documentados na seguinte planilha:
+
+<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19NQ6Ciq-1AXy8mielG6rdfeRWsq4lh7iA4XRa0aqKDw/edit#gid=0"></iframe>
 
 
 ## 6. Referências Bibliográficas
@@ -91,7 +94,7 @@ A aceitação é a resposta ao risco que a equipe do projeto decide não agir pa
 > [2] EQUIPE ALECTRION 2022-1. Planejamento de Gerenciamento de Riscos. Disponível em: https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/main/docs/documentation/Documentos/plano-de-riscos.md
 
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
