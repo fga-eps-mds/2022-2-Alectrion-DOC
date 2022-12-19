@@ -37,7 +37,7 @@ Realizar as histórias de usuários relacionadas ao épico ao cadastro de usuár
 A Imagem 1 abaixo representa o quadro de conhecimentos da equipe.
 
 <div align="center">
-   <img width="auto" height="auto" src="assets/quadro_de_conhecimento/1_quadro_de_conhecimento.png"/>
+   <img width="auto" height="auto" src="assets/quadro_de_conhecimento/2_quadro_de_conhecimento.png"/>
 </div>
 
 <figcaption align='center'>
@@ -85,4 +85,7 @@ As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizad
 |--------|-------------|--------------|
 |27/11/2022| Criação do documento | João Vitor |
 |28/11/2022| Revisão inicial do documento | Erick Giffoni |
+|15/12/2022| Atualiza quadro de conhecimento | Aline Lermen |
 |15/12/2022| Adiciona tarefas de EPS, quadro da retrospectiva e modifica formato da tabela de reniões | Aline Lermen |
+
+
