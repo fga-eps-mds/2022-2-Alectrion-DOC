@@ -17,7 +17,7 @@ O protótipo de alta fidelidade foi desenvolvido na ferramenta figma, apresentad
 ### Tela equipamento:
 ![Tela de equipamentos](../../assets/prototipos/alta/equipamentos.png)
 
-Todas as telas do protipo estão disponíveis no [Figma](https://www.figma.com/file/UaUTq18rw4VxKExnPCp5N5/Alectrion-(Copy)?node-id=69%3A2&t=U9Kfc0F6JFjUJvuf-1).
+Todas as telas do protótipo estão disponíveis no [Figma](https://www.figma.com/file/UaUTq18rw4VxKExnPCp5N5/Alectrion-(Copy)?node-id=69%3A2&t=U9Kfc0F6JFjUJvuf-1).
 
 ## 3. Referência
 > [1] Prototipagem de alta fidelidade: o que é, quando, por que e como usar? Disponível em: [https://www.digitalhouse.com/br/blog/prototipo-de-baixa-fidelidade/](https://medium.com/somos-tera/prototipagem-de-alta-fidelidade-635d745b662b)
