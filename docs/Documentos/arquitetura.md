@@ -84,3 +84,4 @@ O PostgreSQL é um sistema gerenciador de banco de dados relacionais de código 
 | 11/12/2022 | Adição do diagrama lógico | Samuel Pereira |
 | 11/12/2022 | Adição do diagrama de pacotes do back-end | Samuel Pereira |
 | 11/12/2022 | Adição dos diagramas de classes e referências | Samuel Pereira |
+| 16/12/2022 | Correção de imagens de múltiplos diagramas | Samuel Pereira |
