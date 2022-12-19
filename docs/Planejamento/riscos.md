@@ -61,44 +61,28 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 |    Alta     |  16 a 20  |
 | Muito alta  |  21 a 25  |
 
+# 4. Planejamento de resposta dos riscos
 
-## 4. Documentação dos riscos
+A resposta aos riscos consiste em aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto, permitindo assim a abordagem dos riscos por prioridades. Os tipos de abordagem que devem ser aplicadas a cada risco são prevenir, transferir, mitigar ou aceitar.
 
-### 4.1 Riscos técnicos
+### 4.1 Prevenir
+Na estratégia de prevenir o risco, a equipe deve agir para eliminar a ameaça ou proteger o projeto contra o impacto deste risco. Extensão do cronograma, alteração da estratégia ou redução do escopo são exemplos de ações visando prevenir.
 
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RT01 | Limitação técnica | Demora no desenvolvimento do projeto | Alto | Média | Média |
-| RT02 | Má gestão dos requisitos | Desenvolvimento falho do produto | Muito alto | Média | Média |
-| RT03 | Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software | Muito alto | Média | Média |
-| RT04 | Mudança das tecnologias | Adequar todo o código as novas tecnologias | Muito alto | Muito baixa | Muito baixa |
+### 4.2 Transferir
+A estratégia de transferência de riscos consiste em realocar o impacto e responsabilidade da ameaça para terceiros, transferindo o esforço gerencial para outra área, equipe ou software.
 
-### 4.2 Riscos organizacionais
+### 4.3 Mitigar
+Na estratégia de mitigar o risco, a equipe age para reduzir a probabilidade ou impacto do risco. Diminuir a possibilidade da ocorrência do risco é melhor do que reparar o impacto produzido pelo mesmo. Quando reduzir a probabilidade do risco não é possível, deve-se abordar fatores determinantes para a gravidade do impacto.
 
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RO01 | Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho | Alto | Alta | Alta |
-| RO02 | Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Baixa |
-
-### 4.3 Riscos de gerenciamento de projeto 
-
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Alto | Alta | Alta |
-| RGP02 | Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Média | Média |
-| RGP03 | Falta de compatibilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Alta | Alta |
-| RGP04 | Baixa produtividade da equipe | Atraso nas entregas | Alto | Média | Média |
-| RGP05 | Pareamento não efetivo | Atraso nas entregas | Alto | Média | Média |
+### 4.4 Aceitar
+A aceitação é a resposta ao risco que a equipe do projeto decide não agir para diminuir sua ocorrência. Essa postura é aplicada quando é inviável evitar, diminuir ou transferir o risco.
 
 
-### 4.4 Risco externo
-
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RE01 | Adoecimento de membro da equipe | Atraso nas entregas e/ou sobrecarga de trabalho aos demais membros | Alto | Média | Média | 
+## 5. Documentação dos riscos
 
 
-## 5. Referências Bibliográficas
+
+## 6. Referências Bibliográficas
 
 <!-- Referências enumeradas-->
 
@@ -111,6 +95,8 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
-| 05/12/2022 | Criação do documento | João Vitor |
+| 19/07/2022 | Criação do documento | Guilherme, João Pedro Soares 
+| 05/12/2022 | Adição dos tópicos | João Vitor |
 | 07/12/2022 | Documentação dos riscos | João Vitor |
 | 08/12/2022 | Correção de erros de escrita | João Vitor |
+| 18/12/2022 | Adição de respostas aos riscos e planilha de documentação dos riscos | João Vitor |
