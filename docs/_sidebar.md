@@ -5,6 +5,7 @@
    - [Plano de riscos](./Planejamento/riscos.md)
    - [Plano de qualidade](./Planejamento/plano-qualidade.md)
 - **Documentos**
+   - [Metodologias](./Documentos/metodologia.md)
    - [EAP](./Documentos/eap.md)
    - [TAP](./Documentos/tap.md)
    - [Como contribuir](./Documentos/guia-contribuicao.md)
@@ -13,6 +14,7 @@
    - **Protótipos**
       - [Protótipo de baixa fidelidade](./Documentos/prototipos/baixa-fidelidade.md)
       - [Protótipo de alta fidelidade](./Documentos/prototipos/alta-fidelidade.md)
+   - [Guia de Estilo](./Documentos/guia-de-estilo.md)
 - **Lean Inception**
 	- [Visão do Produto](./Leaninception/visao-do-produto.md)
 	- [É, Não é, Faz, Não faz](./Leaninception/e-naoe-faz-naofaz.md)
