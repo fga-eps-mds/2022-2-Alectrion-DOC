@@ -11,22 +11,30 @@ Este documento apresenta a estimativa de custos, orçamentos e controle, para qu
 ## 2. Estimativa de custos
 
 ### 2.1 Recursos humanos
-Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/), esse custo é de R$27.850 anual por aluno. Considerando as 16 semanas de projeto e os 13 integrantes da equipe, temos os seguintes cálculos.
+Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/), esse custo é de R$40.900 anual por aluno. Para essa estimativa, leva-se também em consideração o curso da equipe, Engenharia de Software, que é um curso de 5 anos, de 232 créditos, possuindo então uma média de 46 créditos por ano, e 23 créditos por semestre. Para completar os 23 créditos, são em média 5 disciplinas cursadas por semestre. Considerando também as 16 semanas de projeto e os 13 integrantes da equipe, temos os seguintes cálculos.
 
 **Custo médio semanal por integrante**
 * custo médio anual por integrante ÷ quantidade de semanas no ano
-* 27.850 ÷ 52 = R$**535,6**
+* 40.900 ÷ 52 = R$**786,54**
+
+**Custo médio semanal por integrante na disciplina de EPS**
+* custo médio semanal por integrante ÷ quantidade de disciplinas
+* 786,54 ÷ 5 = R$**157,31**
 
 **Custo médio semanal por equipe**
-* custo médio semanal por integrante x quantidade de integrantes da equipe
-* 535,6 x 13 = R$**6962,8**
+* custo médio semanal por integrante na disciplina de EPS x quantidade de integrantes da equipe
+* 157,31 x 13 = R$**2045,00**
 
 **Custo TOTAL por equipe**
 * custo médio semanal por equipe x quantidade de semanas do projeto
-* 6962,8 x 16 = R$**111.404,8**
+* 2045,00 x 16 = R$**32.720**
 
 ### 2.2 Equipamentos
-A estimativa de custos com equipamentos será considerado como R$0, pois todos os integrantes da equipe já possuem computadores pessoais para executar as atividades do projeto.
+Para a estimativa de custos dos equipamento será considerado o preço médio de um _notebook_ em 2022. Segundo [UOL](https://www.uol.com.br/tilt/ultimas-noticias/estado/2022/07/18/quer-comprar-pc-laptop-tem-alta-de-ate-23-com-preco-medio-de-r-47-mil.htm) [7], esse custo médio é de R$ 4,7 mil. Considerando os 13 integrantes da equipe:
+
+**Custo TOTAL dos equipamentos**
+* custo médio do notebook x quantidade de integrantes da equipe
+* 4.700 x 13 = R$**61.100**
 
 ### 2.3 Ferramentas
 A estimativa de custos com ferramentas será considerado como R$0, pois as plataformas e ferramentas utilizadas pela equipe são gratuitas.
@@ -83,10 +91,13 @@ Somando as estimativas de custo semanal de internet (R$**292,50**) e energia (R$
 
 ## 3. Definição do orçamento
 
-Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto é:
+Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 16 meses é:
 
 * custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
-* R$111.404,8 + R$0 + R$0 + R$195,30 + R$4717,44 = **R$116.317,54**
+* R$32.720 + R$61.100 + R$0 + R$195,30 + R$4717,44 = **R$98.732,74**
+
+O custo do MVP é calculado com base nas semanas até sua entrega, calculado para 12 semanas. Sendo assim, o custo do MVP é de **R$98.732,74**.  
+A planilha a seguir apresenta uma melhor visualização dos custos semanais, de projeto e do MVP.
 
 ## 4. Planilha de custos
 
@@ -104,6 +115,7 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 > [4] Melhor escolha. Internet em Brasília. Disponível em: https://melhorescolha.com/internet-banda-larga/brasilia-df/. Acesso em: 30 de novembro de 2022  
 > [5] Jonal da Unesp. Cobrança de mensalidade não é a solução para o financiamento da universidade pública. Disponível em: https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/. Acesso em: 04 de dezembro de 2022  
 > [6] Alectrion. Disponível em: https://fga-eps-mds.github.io/2022-1-Alectrion-DOC/home/. Acesso em: 04 de novembro de 2022  
+> [7] UOL. Disponível em: https://www.uol.com.br/tilt/ultimas-noticias/estado/2022/07/18/quer-comprar-pc-laptop-tem-alta-de-ate-23-com-preco-medio-de-r-47-mil.htm. Acesso em: 20 de dezembro de 2022  
 
 ## 6. Histórico de versão
 
@@ -113,3 +125,4 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 |04/12/2022| Adiciona custo de recursos humanos e ajusta referências | Aline Lermen |
 |06/12/2022| Revisão do documento e pequenas correções | Aline Lermen, Erick Giffoni |
 |08/12/2022| Adiciona custo de capacitação | Aline Lermen |
+|20/12/2022| Modifica estimativa de equipamentos, recursos humanos e geral| Aline Lermen |
