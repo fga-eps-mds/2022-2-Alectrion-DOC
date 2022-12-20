@@ -62,21 +62,21 @@ As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizad
 
 ## 6. Reunião
 
-|Turma|Nome|_Planning_|Retrospectiva|_Review_|
-|-----|----|:--------:|:--------:|:--------:|
-| EPS | Aline Helena Lermen | Presente | Presente|- |
-| EPS | Álvaro Leles Guimarães | Presente | Presente |- | 
-| EPS | Antonio Ruan Moura Barreto | Presente | Presente |- |
-| EPS | Erick Giffoni | Presente | Presente |- | 
-| EPS | João Vitor Lopes de Farias | Presente | Presente |- |
-| EPS | Samuel de Souza Buters Pereira | Presente |Presente |- |
-| MDS | Adriano Fonseca | Presente |Presente |- | 
-| MDS | Carlos Eduardo Mendes de Mesquita | Ausente |Presente |- | 
-| MDS | Mateus Fidelis Marinho Maia | Ausente |Presente |- |
-| MDS | Matheus Henrique dos Santos | Presente |Presente |- |
-| MDS | Pedro José Dias de Oliveira Campos | Presente |Presente |- | 
-| MDS | Uires Carlos | Presente |Presente |- | 
-| MDS | Yago Amin Santos | Presente |Presente |- |
+|Turma|Nome|_Planning_|Retrospectiva|
+|-----|----|:--------:|:--------:|
+| EPS | Aline Helena Lermen | Presente | Presente|
+| EPS | Álvaro Leles Guimarães | Presente | Presente | 
+| EPS | Antonio Ruan Moura Barreto | Presente | Presente |
+| EPS | Erick Giffoni | Presente | Presente | 
+| EPS | João Vitor Lopes de Farias | Presente | Presente |
+| EPS | Samuel de Souza Buters Pereira | Presente |Presente |
+| MDS | Adriano Fonseca | Presente |Presente | 
+| MDS | Carlos Eduardo Mendes de Mesquita | Ausente |Presente | 
+| MDS | Mateus Fidelis Marinho Maia | Ausente |Presente |
+| MDS | Matheus Henrique dos Santos | Presente |Presente |
+| MDS | Pedro José Dias de Oliveira Campos | Presente |Presente | 
+| MDS | Uires Carlos | Presente |Presente | 
+| MDS | Yago Amin Santos | Presente |Presente |
 
 
 ## 7. Histórico de versão
@@ -87,5 +87,7 @@ As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizad
 |28/11/2022| Revisão inicial do documento | Erick Giffoni |
 |15/12/2022| Atualiza quadro de conhecimento | Aline Lermen |
 |15/12/2022| Adiciona tarefas de EPS, quadro da retrospectiva e modifica formato da tabela de reniões | Aline Lermen |
+|20/12/2022| Revisão do documento e retirada da coluna _review_ nas reuniões | Aline Lermen, Erick Giffoni |
+
 
 

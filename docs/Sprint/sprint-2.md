@@ -66,21 +66,21 @@ As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizad
 
 ## 6. Reunião
 
-|Turma|Nome|_Planning_|Retrospectiva|_Review_|
-|-----|----|:--------:|:--------:|:--------:|
-| EPS | Aline Helena Lermen | Presente |Presente |- |
-| EPS | Álvaro Leles Guimarães | Ausente | Ausente |- | 
-| EPS | Antonio Ruan Moura Barreto | Presente | Presente |- |
-| EPS | Erick Giffoni | Ausente | Presente |- | 
-| EPS | João Vitor Lopes de Farias | Presente | Presente |- |
-| EPS | Samuel de Souza Buters Pereira | Presente | Presente |- |
-| MDS | Adriano Fonseca | Ausente | Ausente |- | 
-| MDS | Carlos Eduardo Mendes de Mesquita | Ausente | Ausente |- | 
-| MDS | Mateus Fidelis Marinho Maia | Presente | Presente |- |
-| MDS | Matheus Henrique dos Santos | Presente | Ausente |- |
-| MDS | Pedro José Dias de Oliveira Campos | Ausente | Presente |- | 
-| MDS | Uires Carlos | Ausente | Ausente |- | 
-| MDS | Yago Amin Santos | Presente | Ausente |- |
+|Turma|Nome|_Planning_|Retrospectiva|
+|-----|----|:--------:|:--------:|
+| EPS | Aline Helena Lermen | Presente |Presente |
+| EPS | Álvaro Leles Guimarães | Ausente | Ausente | 
+| EPS | Antonio Ruan Moura Barreto | Presente | Presente |
+| EPS | Erick Giffoni | Ausente | Presente | 
+| EPS | João Vitor Lopes de Farias | Presente | Presente |
+| EPS | Samuel de Souza Buters Pereira | Presente | Presente |
+| MDS | Adriano Fonseca | Ausente | Ausente | 
+| MDS | Carlos Eduardo Mendes de Mesquita | Ausente | Ausente | 
+| MDS | Mateus Fidelis Marinho Maia | Presente | Presente |
+| MDS | Matheus Henrique dos Santos | Presente | Ausente |
+| MDS | Pedro José Dias de Oliveira Campos | Ausente | Presente | 
+| MDS | Uires Carlos | Ausente | Ausente | 
+| MDS | Yago Amin Santos | Presente | Ausente |
 
 ## 7. Histórico de versão
 
@@ -88,3 +88,4 @@ As imagens abaixo apresentam os resultados da retrospectiva de _sprint_ realizad
 |--------|-------------|--------------|
 |15/12/2022| Criação básica do documento | Aline Lermen |
 |18/12/2022| Adiciona presença e quadro da retrospectiva, quadro de conhecimento | Aline Lermen |
+|20/12/2022| Revisão do documento e retirada da coluna _review_ nas reuniões | Aline Lermen, Erick Giffoni |
