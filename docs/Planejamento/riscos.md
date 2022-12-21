@@ -82,8 +82,11 @@ A aceitação é a resposta ao risco que a equipe do projeto decide não agir pa
 
 Os riscos foram documentados na seguinte planilha:
 
-<iframe width="1200" height="600" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19NQ6Ciq-1AXy8mielG6rdfeRWsq4lh7iA4XRa0aqKDw/edit#gid=0"></iframe>
+<iframe width="1200" height="1150" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19NQ6Ciq-1AXy8mielG6rdfeRWsq4lh7iA4XRa0aqKDw/edit#gid=0"></iframe>
 
+E na planilha abaixo encontra-se o controle dos riscos conforme as Sprints:
+
+<iframe width="1200" height="750" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19NQ6Ciq-1AXy8mielG6rdfeRWsq4lh7iA4XRa0aqKDw/edit#gid=880948803"></iframe>
 
 ## 6. Referências Bibliográficas
 
@@ -98,8 +101,9 @@ Os riscos foram documentados na seguinte planilha:
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
-| 19/07/2022 | Criação do documento | Guilherme, João Pedro Soares 
+| 19/07/2022 | Criação do documento | Guilherme, João Pedro Soares |
 | 05/12/2022 | Adição dos tópicos | João Vitor |
 | 07/12/2022 | Documentação dos riscos | João Vitor |
 | 08/12/2022 | Correção de erros de escrita | João Vitor |
 | 18/12/2022 | Adição de respostas aos riscos e planilha de documentação dos riscos | João Vitor |
+| 21/12/2022 | Adição da planilha de controle | João Vitor |
