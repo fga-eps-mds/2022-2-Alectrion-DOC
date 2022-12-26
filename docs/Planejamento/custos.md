@@ -126,3 +126,4 @@ Para consolidação dos custos, utilizamos a planilha conforme abaixo.
 |06/12/2022| Revisão do documento e pequenas correções | Aline Lermen, Erick Giffoni |
 |08/12/2022| Adiciona custo de capacitação | Aline Lermen |
 |20/12/2022| Modifica estimativa de equipamentos, recursos humanos e geral| Aline Lermen |
+|20/12/2022| Revisão da estimativa de reursos humanos | Aline Lermen, Ruan Moura |
