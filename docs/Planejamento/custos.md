@@ -11,23 +11,23 @@ Este documento apresenta a estimativa de custos, orçamentos e controle, para qu
 ## 2. Estimativa de custos
 
 ### 2.1 Recursos humanos
-Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/), esse custo é de R$40.900 anual por aluno. Para essa estimativa, leva-se também em consideração o curso da equipe, Engenharia de Software, que é um curso de 5 anos, de 232 créditos, possuindo então uma média de 46 créditos por ano, e 23 créditos por semestre. Para completar os 23 créditos, são em média 5 disciplinas cursadas por semestre. Considerando também as 16 semanas de projeto e os 13 integrantes da equipe, temos os seguintes cálculos.
+Para essa estimativa de custos foi utilizado o custo médio anual por aluno de instituto federal. De acordo com [jornal da unesp](https://jornal.unesp.br/2022/06/08/cobranca-de-mensalidade-nao-e-a-solucao-para-o-financiamento-da-universidade-publica/), esse custo é de R$40.900 anual por aluno. Para essa estimativa, leva-se também em consideração o curso da equipe, Engenharia de Software, que é um curso de 5 anos, de 232 créditos. Considerando também as 16 semanas de projeto e os 13 integrantes da equipe, temos os seguintes cálculos.
 
-**Custo médio semanal por integrante**
-* custo médio anual por integrante ÷ quantidade de semanas no ano
-* 40.900 ÷ 52 = R$**786,54**
+**Custo médio por crédito**
+* custo médio anual por integrante x quantidade padrão de anos de curso ÷ quantidade de créditos para formação no curso
+* 40.900 x 5 ÷ 232 = R$**881,5**
 
-**Custo médio semanal por integrante na disciplina de EPS**
-* custo médio semanal por integrante ÷ quantidade de disciplinas
-* 786,54 ÷ 5 = R$**157,31**
-
-**Custo médio semanal por equipe**
-* custo médio semanal por integrante na disciplina de EPS x quantidade de integrantes da equipe
-* 157,31 x 13 = R$**2045,00**
+**Custo médio por integrante na disciplina de EPS/MDS**
+* custo médio por crédito x quantidade de créditos da disciplina
+* 881,5 x 4 = R$**3.526,00**
 
 **Custo TOTAL por equipe**
-* custo médio semanal por equipe x quantidade de semanas do projeto
-* 2045,00 x 16 = R$**32.720**
+* custo médio por integrante na disciplina de EPS/MDS x quantidade de integrantes da equipe
+* 3526,00 x 13 = R$**45.838,00**
+
+**Custo médio semanal por equipe**
+* custo TOTAL por equipe ÷ quantidade de semanas do projeto
+* 45.838,00 ÷ 16 = R$**2.864,87**
 
 ### 2.2 Equipamentos
 Para a estimativa de custos dos equipamento será considerado o preço médio de um _notebook_ em 2022. Segundo [UOL](https://www.uol.com.br/tilt/ultimas-noticias/estado/2022/07/18/quer-comprar-pc-laptop-tem-alta-de-ate-23-com-preco-medio-de-r-47-mil.htm) [7], esse custo médio é de R$ 4,7 mil. Considerando os 13 integrantes da equipe:
@@ -94,9 +94,9 @@ Somando as estimativas de custo semanal de internet (R$**292,50**) e energia (R$
 Considerando as estimativas de custos acima calculadas e uma margem de 10%, o orçamento total para o projeto em 16 semanas é:
 
 * custo recursos humanos + custo equipamentos + custo ferramentas + custo capacitação + custo infraestrutura
-* R$32.720 + R$61.100 + R$0 + R$195,30 + R$4717,44 = **R$98.732,74**
+* R$45.838 + R$61.100 + R$0 + R$195,30 + R$4717,44 = **R$111.850,74**
 
-O custo do MVP é calculado com base nas semanas até sua entrega, calculado para 12 semanas. Sendo assim, o custo do MVP é de **R$98.732,74**.  
+O custo do MVP é calculado com base nas semanas até sua entrega, calculado para 12 semanas. Sendo assim, o custo do MVP é de **R$99.210,46**.  
 A planilha a seguir apresenta uma melhor visualização dos custos semanais, de projeto e do MVP.
 
 ## 4. Planilha de custos
