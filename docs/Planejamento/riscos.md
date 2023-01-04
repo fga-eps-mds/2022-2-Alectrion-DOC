@@ -61,44 +61,34 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 |    Alta     |  16 a 20  |
 | Muito alta  |  21 a 25  |
 
+# 4. Planejamento de resposta dos riscos
 
-## 4. Documentação dos riscos
+A resposta aos riscos consiste em aumentar as oportunidades e reduzir as ameaças aos objetivos do projeto, permitindo assim a abordagem dos riscos por prioridades. Os tipos de abordagem que devem ser aplicadas a cada risco são prevenir, transferir, mitigar ou aceitar.
 
-### 4.1 Riscos técnicos
+### 4.1 Prevenir
+Na estratégia de prevenir o risco, a equipe deve agir para eliminar a ameaça ou proteger o projeto contra o impacto deste risco. Extensão do cronograma, alteração da estratégia ou redução do escopo são exemplos de ações visando prevenir.
 
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RT01 | Limitação técnica | Demora no desenvolvimento do projeto | Alto | Média | Média |
-| RT02 | Má gestão dos requisitos | Desenvolvimento falho do produto | Muito alto | Média | Média |
-| RT03 | Baixa qualidade do software | Comprometimento da confiabilidade e integridade do software | Muito alto | Média | Média |
-| RT04 | Mudança das tecnologias | Adequar todo o código as novas tecnologias | Muito alto | Muito baixa | Muito baixa |
+### 4.2 Transferir
+A estratégia de transferência de riscos consiste em realocar o impacto e responsabilidade da ameaça para terceiros, transferindo o esforço gerencial para outra área, equipe ou software.
 
-### 4.2 Riscos organizacionais
+### 4.3 Mitigar
+Na estratégia de mitigar o risco, a equipe age para reduzir a probabilidade ou impacto do risco. Diminuir a possibilidade da ocorrência do risco é melhor do que reparar o impacto produzido pelo mesmo. Quando reduzir a probabilidade do risco não é possível, deve-se abordar fatores determinantes para a gravidade do impacto.
 
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RO01 | Má priorização das tarefas  | Confusão e consequente ineficiência na divisão de trabalho | Alto | Alta | Alta |
-| RO02 | Mudança de escopo | Necessidade de replanejamento e repriorização do projeto | Muito Alto | Baixa | Baixa |
-
-### 4.3 Riscos de gerenciamento de projeto 
-
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RGP01 | Comunicação ineficiente entre os membros da equipe | Falta de alinhamento entre o time de desenvolvimento | Alto | Alta | Alta |
-| RGP02 | Desistência de membros | Sobrecarga de trabalho para o restante da equipe | Alto | Média | Média |
-| RGP03 | Falta de compatibilidade entre horários dos membros | Dificuldade para a realização de eventos síncronos entre a equipe | Alto | Alta | Alta |
-| RGP04 | Baixa produtividade da equipe | Atraso nas entregas | Alto | Média | Média |
-| RGP05 | Pareamento não efetivo | Atraso nas entregas | Alto | Média | Média |
+### 4.4 Aceitar
+A aceitação é a resposta ao risco que a equipe do projeto decide não agir para diminuir sua ocorrência. Essa postura é aplicada quando é inviável evitar, diminuir ou transferir o risco.
 
 
-### 4.4 Risco externo
+## 5. Documentação dos riscos
 
-| ID | Risco | Consequência | Impacto | Probabilidade | Prioridade |
-| -- | ----- | ------------ | ------- | ------------- | ---------- |
-| RE01 | Adoecimento de membro da equipe | Atraso nas entregas e/ou sobrecarga de trabalho aos demais membros | Alto | Média | Média | 
+Os riscos foram documentados na seguinte planilha:
 
+<iframe width="1200" height="1150" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19NQ6Ciq-1AXy8mielG6rdfeRWsq4lh7iA4XRa0aqKDw/edit#gid=0"></iframe>
 
-## 5. Referências Bibliográficas
+E na planilha abaixo encontra-se o controle dos riscos conforme as Sprints:
+
+<iframe width="1200" height="750" style="-webkit-transform:scale(0.8);-moz-transform-scale(0.8);" frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/19NQ6Ciq-1AXy8mielG6rdfeRWsq4lh7iA4XRa0aqKDw/edit#gid=880948803"></iframe>
+
+## 6. Referências Bibliográficas
 
 <!-- Referências enumeradas-->
 
@@ -107,10 +97,13 @@ A prioridade determina a urgência que medidas devem ser tomadas para resolver o
 > [2] EQUIPE ALECTRION 2022-1. Planejamento de Gerenciamento de Riscos. Disponível em: https://github.com/fga-eps-mds/2022-1-Alectrion-DOC/blob/main/docs/documentation/Documentos/plano-de-riscos.md
 
 
-## 6. Histórico de versão
+## 7. Histórico de versão
 
 |**Data**|**Descrição**|**Autor(es)**|
 |--------|-------------|--------------|
-| 05/12/2022 | Criação do documento | João Vitor |
+| 19/07/2022 | Criação do documento | Guilherme, João Pedro Soares |
+| 05/12/2022 | Adição dos tópicos | João Vitor |
 | 07/12/2022 | Documentação dos riscos | João Vitor |
 | 08/12/2022 | Correção de erros de escrita | João Vitor |
+| 18/12/2022 | Adição de respostas aos riscos e planilha de documentação dos riscos | João Vitor |
+| 21/12/2022 | Adição da planilha de controle | João Vitor |
